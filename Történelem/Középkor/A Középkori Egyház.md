@@ -6,7 +6,6 @@
 3. **Dolgozók** – *Laboratores*
 	- Jobbágyok
 	- 95%
-
 ### Imádkozók
 #### Nyugati kereszténység
 - *Katolikus*

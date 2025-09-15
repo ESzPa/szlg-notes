@@ -3,8 +3,8 @@
 - **Párbeszédek**
 - **Populáris Irodalom**
 - **Műnemek - műfajok**
-## Ösi formái
-- **Ösi magyar hitvilág**
+## Ősi formái
+- **Ősi magyar hitvilág**
 - **Görög mitológia**
 ## Görög Irodalom
 - **Epika – Homérosz**
