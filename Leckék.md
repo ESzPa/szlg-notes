@@ -6,7 +6,7 @@
 	- [Ismétlés](Irodalom/1.Ismétlés.md)
 	- [A Barokk](Irodalom/2.A_Barokk.md)
 - **Kémia**
-	- [Életerő Elmélet](Kémia/Életerő Elmélet.md)
+	- [Életerő Elmélet](Kémia/Életerő_Elmélet.md)
 - **Földrajz**
 	- **Népesség -és Településföldrajz
 		- [Népesség Földrajz](Földrajz/Népesség -és településföldrajz/1. Népesség Földrajz.md)
