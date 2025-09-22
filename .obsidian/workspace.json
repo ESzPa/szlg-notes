@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eee7c56cbb5de520",
+        "id": "30153de04e0c2eff",
         "type": "tabs",
         "children": [
           {
-            "id": "9c4dba1eb6534e5f",
+            "id": "cdb5a01ba360ceb3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Leckék.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leckék"
             }
           }
         ]
@@ -166,17 +170,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9c4dba1eb6534e5f",
+  "active": "cdb5a01ba360ceb3",
   "lastOpenFiles": [
-    "Irodalom/3.Az_Állítmány.md",
-    "Történelem/0.Középkor/2.Kultúra_és_Oktatás.md",
-    "Történelem/0.Középkor/0.Középkor.md",
-    "Történelem/0.Középkor/1.A_Középkori_Egyház.md",
-    "Történelem/Történelem.md",
+    "().md",
     "Leckék.md",
+    "Történelem.md",
+    "Nyelvtan/1.Az_Állítmány.md",
+    "Nyelvtan/1.Az_Állítmány.excalidraw.md",
+    "Nyelvtan",
+    "Történelem/1.Középkor/2.Kultúra_és_Oktatás.md",
+    "Történelem/0.Középkor/0.Középkor.md",
+    "Történelem/1.Középkor/1.A_Középkori_Egyház.md",
+    "Történelem/Történelem.md",
     "Kémia/Életerő Elmélet.md",
     "Kémia/Életerő Elmélet.excalidraw.md",
-    "Irodalom/3.Az_Állítmány.excalidraw.md",
     "Irodalom/Untitled.md",
     "Irodalom/Irodalom.md",
     "1.Középkor/Középkor.md",
@@ -195,10 +202,9 @@
     "Untitled.base",
     "Kémia",
     "Irodalom",
-    "Történelem/0.Középkor",
+    "Történelem/1.Középkor",
     "Történelem",
     "Földrajz/Népesség -és településföldrajz",
-    "Welcome.md",
-    "Földrajz"
+    "Welcome.md"
   ]
 }
