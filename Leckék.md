@@ -5,11 +5,13 @@
 - **Irodalom**
 	- [Ismétlés](Irodalom/1.Ismétlés.md)
 	- [A Barokk](Irodalom/2.A_Barokk.md)
+	- [A Barokk Magyarországon](Irodalom/3.A_Barokk_Magyarországon.md)
 - **Kémia**
-	- [Életerő Elmélet](Kémia/Életerő_Elmélet.md)
+	- [Életerő Elmélet](Kémia/Életerő_Elmélet.md) + [Rajz](Kémia/Életerő_Elmélet.excalidraw.md)
 - **Földrajz**
 	- **Népesség -és Településföldrajz
-		- [Népesség Földrajz](Földrajz/Népesség -és településföldrajz/1. Népesség Földrajz.md)
+		- [Népesség Földrajz](Földrajz/Népesség_-és_településföldrajz/1.Népesség_Földrajz.md)
+		- [Népesedési Átmenet Szakaszai](Földrajz/Népesség_-és_településföldrajz/2.Népesedési_átmenet_szakaszai.md) + [Rajz](Földrajz/Népesség_-és_településföldrajz/2.Népesedési_átmenet_szakaszai.excalidraw.md)
 - **Nyelvtan**
 	- [Az Állítmány](Nyelvtan/1.Az_Állítmány.md)
 
