@@ -12,8 +12,9 @@
 	- **Népesség -és Településföldrajz
 		- [Népesség Földrajz](Földrajz/Népesség_-és_településföldrajz/1.Népesség_Földrajz.md)
 		- [Népesedési Átmenet Szakaszai](Földrajz/Népesség_-és_településföldrajz/2.Népesedési_átmenet_szakaszai.md) + [Rajz](Földrajz/Népesség_-és_településföldrajz/2.Népesedési_átmenet_szakaszai.excalidraw.md)
+		- [Népesség-összetétel](Földrajz/Népesség_-és_településföldrajz/3.Népesség-összetétel.md)
 - **Nyelvtan**
-	- [Az Állítmány](Nyelvtan/1.Az_Állítmány.md)
+	- [Az Állítmány](Nyelvtan/1.Az_Állítmány.md) + [Rajz](Nyelvtan/1.Az_Állítmány.excalidraw.md)
 
 
 
