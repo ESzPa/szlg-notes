@@ -5,8 +5,44 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Nyelvtan  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
+    },
+    {
+      "query": "path:Történelem  ",
+      "color": {
+        "a": 1,
+        "rgb": 15242867
+      }
+    },
+    {
+      "query": "path:Irodalom  ",
+      "color": {
+        "a": 1,
+        "rgb": 16720932
+      }
+    },
+    {
+      "query": "path:Kémia  ",
+      "color": {
+        "a": 1,
+        "rgb": 8445951
+      }
+    },
+    {
+      "query": "path:Földrajz  ",
+      "color": {
+        "a": 1,
+        "rgb": 52258
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
