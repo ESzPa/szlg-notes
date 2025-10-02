@@ -20,3 +20,4 @@
 - **Nyelvtan**
 	- [Az Állítmány](Nyelvtan/1.Az_Állítmány.md)
 	- [Az Alany és a Tárgy](Nyelvtan/2.Az_Alany_És_A_Tárgy.md)
+	- [A Határozó És A Jelző](Nyelvtan/3.A_Határozó_És_A_Jelző.md)
