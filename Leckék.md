@@ -9,6 +9,8 @@
 	- [A Barokk Magyarországon](Irodalom/3.A_Barokk_Magyarországon.md)
 	- [Zrínyi Miklós Portréja](Irodalom/4.Zrínyi_Miklós_Portréja.md)
 	- [Zrínyi Miklós: Szigeti Veszedelem](Irodalom/5.Szigeti_Veszedelem.md)
+	- [A Rokokó](Irodalom/6.A_Rokokó.md)
+	- [A Kuruc Kor Irodalma](Irodalom/7.Kuruc_Kor_Irodalma.md)
 - **Kémia**
 	- [Életerő Elmélet](Kémia/Életerő_Elmélet.md)
 - **Földrajz**
