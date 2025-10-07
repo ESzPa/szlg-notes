@@ -11,6 +11,7 @@
 	- [Zrínyi Miklós: Szigeti Veszedelem](Irodalom/5.Szigeti_Veszedelem.md)
 	- [A Rokokó](Irodalom/6.A_Rokokó.md)
 	- [A Kuruc Kor Irodalma](Irodalom/7.Kuruc_Kor_Irodalma.md)
+	- [Összefoglalás](Irodalom/8.Összefoglalás.excalidraw.md)
 - **Kémia**
 	- [Életerő Elmélet](Kémia/Életerő_Elmélet.md)
 - **Földrajz**
