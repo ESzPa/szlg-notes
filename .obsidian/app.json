@@ -1,3 +1,4 @@
 {
-  "readableLineLength": true
+  "readableLineLength": true,
+  "vimMode": true
 }
