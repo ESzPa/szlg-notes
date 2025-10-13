@@ -13,7 +13,8 @@
 	- [A Kuruc Kor Irodalma](Irodalom/7.Kuruc_Kor_Irodalma.md)
 	- [Összefoglalás](Irodalom/8.Összefoglalás.excalidraw.md)
 - **Kémia**
-	- [Életerő Elmélet](Kémia/Életerő_Elmélet.md)
+	- [Életerő Elmélet](1.Életerő_Elmélet.md)
+	- [X.Telített_Szénhidrogének](Kémia/X.Telített_Szénhidrogének.md)
 - **Földrajz**
 	- **Népesség -és Településföldrajz**
 		- [Népesség Földrajz](Földrajz/Népesség_-és_településföldrajz/1.Népesség_Földrajz.md)

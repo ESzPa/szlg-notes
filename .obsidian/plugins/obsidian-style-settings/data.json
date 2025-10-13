@@ -11,5 +11,6 @@
   "anuppuccin-theme-settings@@h4-font": "Liberation Serif",
   "anuppuccin-theme-settings@@h5-font": "Liberation Serif",
   "anuppuccin-theme-settings@@h6-font": "Liberation Serif",
-  "anuppuccin-theme-settings@@anp-decoration-toggle": false
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true,
+  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-sapphire"
 }
