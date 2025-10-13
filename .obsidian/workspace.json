@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "880c33b83edbde8f",
+        "id": "aba679aa97ab7893",
         "type": "tabs",
         "children": [
           {
-            "id": "cd207acf69a8e051",
+            "id": "552bb506f6f228a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kémia/X.Telített_Szénhidrogének.md",
+                "file": "Irodalom/2.?/9.Francia_Klasszicista_Színház_És_Dráma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "X.Telített_Szénhidrogének"
-            }
-          },
-          {
-            "id": "078016b014896e94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/X.Telített_Szénhidrogének.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "X.Telített_Szénhidrogének"
+              "title": "9.Francia_Klasszicista_Színház_És_Dráma"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +171,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "078016b014896e94",
+  "active": "552bb506f6f228a2",
   "lastOpenFiles": [
     "Leckék.md",
+    "Irodalom/2.?/9.Francia_Klasszicista_Színház_És_Dráma.md",
+    "Irodalom/1.Barokk/8.Összefoglalás.excalidraw.md",
+    "Irodalom/2.?",
+    "Irodalom/1.Barokk/3.A_Barokk_Magyarországon.md",
     "Kémia/X.Telített_Szénhidrogének.md",
+    "Irodalom/1.Barokk",
+    "Irodalom/1.Barokk/7.Kuruc_Kor_Irodalma.md",
     "Kémia/X.Telített_Szénhidrogének.excalidraw.md",
     "Kémia/1.Életerő_Elmélet.excalidraw.md",
     "Kémia/1.Életerő_Elmélet.md",
@@ -198,13 +189,10 @@
     "Történelem/1.Középkor/1.A_Középkori_Egyház.md",
     "Történelem/1.Középkor/2.Középkori_Kultúra.md",
     "Történelem/1.Középkor/3.Dolgozók.md",
-    "Irodalom/7.Kuruc_Kor_Irodalma.md",
-    "Irodalom/8.Összefoglalás.excalidraw.md",
-    "Irodalom/2.A_Barokk.md",
-    "Irodalom/3.A_Barokk_Magyarországon.md",
-    "Irodalom/4.Zrínyi_Miklós_Portréja.md",
-    "Irodalom/5.Szigeti_Veszedelem.md",
-    "Irodalom/6.A_Rokokó.md",
+    "Irodalom/1.Barokk/2.A_Barokk.md",
+    "Irodalom/1.Barokk/4.Zrínyi_Miklós_Portréja.md",
+    "Irodalom/1.Barokk/5.Szigeti_Veszedelem.md",
+    "Irodalom/1.Barokk/6.A_Rokokó.md",
     "Földrajz/Népesség_-és_településföldrajz/5.Vallásösszetétel.md",
     "Földrajz/Népesség_-és_településföldrajz/4.Emberfajták.md",
     "().md",
@@ -213,8 +201,6 @@
     "Történelem/1.Középkor/3.Dolgozók.excalidraw.md",
     "Excalidraw/Drawing 2025-09-29 12.45.49.excalidraw.md",
     "Excalidraw",
-    "Földrajz/Népesség_-és_településföldrajz/2.Népesedési_átmenet_szakaszai.md",
-    "Nyelvtan/1.Az_Állítmány.excalidraw.md",
     "Földrajz/Népesség_-és_településföldrajz/3.Korfa.png",
     "Untitled.base",
     "Nyelvtan",
@@ -224,8 +210,6 @@
     "Kémia/Életerő Elmélet.canvas",
     "Kémia",
     "Irodalom",
-    "Történelem/1.Középkor",
-    "Történelem",
-    "Földrajz/Népesség_-és_településföldrajz"
+    "Történelem/1.Középkor"
   ]
 }
