@@ -33,4 +33,4 @@
 	- [Az Írásjelek Használata](Nyelvtan/5.Az_Írásjelek_Használata.md)
 - **Biológia**
 	- **Anyagcsere**
-		- [Anyagcsere](Biológia/1.Anyagcsere/1.Anyagcsere.md)
+		- [Anyagcsere](1.Anyagcsere.md)
