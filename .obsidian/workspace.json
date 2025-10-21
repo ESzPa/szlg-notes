@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aba679aa97ab7893",
+        "id": "c004ba3d2e9c39f2",
         "type": "tabs",
         "children": [
           {
-            "id": "552bb506f6f228a2",
+            "id": "44d11d4ef7c6d43c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizika/1.Hőtan/1.Összefoglalás.md",
+                "file": "Földrajz/Népesség_-és_településföldrajz/7.Népesség_területi_eloszlása.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Összefoglalás"
+              "title": "7.Népesség_területi_eloszlása"
             }
           }
         ]
@@ -171,45 +171,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "552bb506f6f228a2",
+  "active": "44d11d4ef7c6d43c",
   "lastOpenFiles": [
+    "Leckék.md",
+    "Földrajz/Népesség_-és_településföldrajz/7.Népesség_területi_eloszlása.md",
+    "Fizika/1.Hőtan/1.Összefoglalás.md",
+    "Földrajz/Untitled",
+    "Földrajz/Népesség_-és_településföldrajz/5.Vallásösszetétel.md",
+    "Földrajz/Népesség_-és_településföldrajz/4.Emberfajták.md",
+    "Irodalom/1.Barokk/7.Kuruc_Kor_Irodalma.md",
+    "Irodalom/1.Barokk/2.A_Barokk.md",
+    "Irodalom/1.Barokk/8.Összefoglalás.excalidraw.md",
     "Nyelvtan/4.Mondatok_Típusai.md",
     "Irodalom/2.?/10.Molière-Fösvény.md",
     "Irodalom/1.Barokk/6.A_Rokokó.md",
     "Irodalom/1.Barokk/5.Szigeti_Veszedelem.md",
     "Irodalom/1.Barokk/4.Zrínyi_Miklós_Portréja.md",
     "Irodalom/2.?/9.Francia_Klasszicista_Színház_És_Dráma.md",
-    "Fizika/1.Hőtan/1.Összefoglalás.md",
     "Fizika/1.Hőtan",
     "Fizika",
     "Kémia/X.Telített_Szénhidrogének.md",
     "Biológia/2.Anyagcsere/1.Anyagcsere.md",
     "Biológia/2.Anyagcsere/1.Anyagcsere.excalidraw.md",
-    "Leckék.md",
     "Nyelvtan/5.Az_Írásjelek_Használata.md",
     "Biológia/2.Anyagcsere",
     "Biológia",
     "Nyelvtan/4.Mondatok_Típusai.excalidraw.md",
     "Nyelvtan/5.jkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkj.md",
-    "Irodalom/1.Barokk/8.Összefoglalás.excalidraw.md",
     "Irodalom/2.?",
     "Irodalom/1.Barokk/3.A_Barokk_Magyarországon.md",
     "Irodalom/1.Barokk",
-    "Irodalom/1.Barokk/7.Kuruc_Kor_Irodalma.md",
     "Kémia/X.Telített_Szénhidrogének.excalidraw.md",
     "Kémia/1.Életerő_Elmélet.excalidraw.md",
     "Kémia/1.Életerő_Elmélet.md",
     "Nyelvtan/3.A_Határozó_És_A_Jelző.md",
     "Történelem/1.Középkor/1.A_Középkori_Egyház.md",
-    "Történelem/1.Középkor/2.Középkori_Kultúra.md",
-    "Történelem/1.Középkor/3.Dolgozók.md",
-    "Irodalom/1.Barokk/2.A_Barokk.md",
-    "Földrajz/Népesség_-és_településföldrajz/5.Vallásösszetétel.md",
     "Excalidraw",
     "Földrajz/Népesség_-és_településföldrajz/3.Korfa.png",
     "Untitled.base",
     "Nyelvtan",
-    "1.Középkor",
     "Untitled.canvas",
     "Kémia/Életerő Elmélet.canvas"
   ]
