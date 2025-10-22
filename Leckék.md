@@ -3,6 +3,7 @@
 		- [A Középkori Egyház](Történelem/1.Középkor/1.A_Középkori_Egyház.md)
 		- [Középkori Kultúra](2.Középkori_Kultúra.md)
 		- [Dolgozók](Történelem/1.Középkor/3.Dolgozók.md)
+		- [Harcolók](Történelem/1.Középkor/3.Harcolók.md)
 - **Irodalom**
 	- **Barokk**
 		- [Ismétlés](1.Ismétlés.md)
