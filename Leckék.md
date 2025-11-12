@@ -38,3 +38,4 @@
 - **Biológia**
 	- **Anyagcsere**
 		- [Anyagcsere](1.Anyagcsere.md)
+		- [Biológiai Oxidáció](Biológia/2.Anyagcsere/X1.Biológiai_Oxidáció.md)
