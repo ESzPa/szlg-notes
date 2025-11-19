@@ -5,6 +5,8 @@
 		- [Dolgozók](Történelem/1.Középkor/3.Dolgozók.md)
 		- [Harcolók](Történelem/1.Középkor/3.Harcolók.md)
 		- [Középkori Városok](Történelem/1.Középkor/4.Városok.md)
+		- [Rendiség](Történelem/1.Középkor/5.Rendiség.md)
+		- [Iszlám vallás](Történelem/1.Középkor/6.Iszlám_vallás.md)
 - **Irodalom**
 	- **Barokk**
 		- [Ismétlés](1.Ismétlés.md)
