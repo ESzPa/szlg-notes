@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "658946b372c4b8a2",
+            "id": "161fbe72f10fddd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Történelem/1.Középkor/10.11.század.md",
+                "file": "Földrajz/Világgazdaság/1.Fejlettség_mérése.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.11.század"
+              "title": "1.Fejlettség_mérése"
             }
           }
         ]
@@ -171,22 +171,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "658946b372c4b8a2",
+  "active": "161fbe72f10fddd7",
   "lastOpenFiles": [
-    "Történelem/1.Középkor/9.Szent_István.md",
+    "Földrajz/Világgazdaság/1.GDP_per_capita.png",
+    "Földrajz/Világgazdaság/1.Fejlettség_mérése.md",
     "Történelem/1.Középkor/10.11.század.md",
+    "Történelem/1.Középkor/9.Szent_István.md",
     "Történelem/1.Középkor/9.Szent_István.excalidraw.md",
+    "Irodalom/2.Klasszicizmus/15.Összefoglalás.md",
+    "Irodalom/2.Klasszicizmus/12.Az_Angol_Líra.md",
+    "Irodalom/2.Klasszicizmus/14.Faust.md",
+    "Irodalom/2.Klasszicizmus/11.Felvilágosodás.md",
+    "Irodalom/2.Klasszicizmus/13.Candide.md",
+    "Irodalom/3.Felvilágosodás",
     "Kémia/X2.Aklinok.md",
     "Kémia/X1.Telítetlen_Szénhidrogének.md",
     "Biológia/3.?/2.Mozgas.md",
     "Nyelvtan/1.Az_Állítmány.md",
-    "Irodalom/2.Klasszicizmus/14.Faust.md",
-    "Földrajz/Világgazdaság/1.Fejlettség_mérése.md",
     "Földrajz/Világgazdaság",
     "Nyelvtan/6.Szöveg.md",
     "Történelem/1.Középkor/8.Géza_Fejedelem.md",
     "Történelem/1.Középkor/7.Magyar_Nép_Őstörténete.md",
-    "Irodalom/2.Klasszicizmus/13.Candide.md",
     "Leckék.md",
     "Földrajz/Népesség_-és_településföldrajz/3.Népesség-összetétel.md",
     "Földrajz/Népesség_-és_településföldrajz/3.Népesség-összetétel.excalidraw.md",
@@ -196,10 +201,6 @@
     "Földrajz/Népesség_-és_településföldrajz/10.Urbanizáció.md",
     "Földrajz/Népesség_-és_településföldrajz/5.Vallásösszetétel.md",
     "Földrajz/Népesség_-és_településföldrajz/2.Népesedési_átmenet_szakaszai.excalidraw.md",
-    "Földrajz/Népesség_-és_településföldrajz/1.Népesség_Földrajz.md",
-    "Nyelvtan/5.Az_Írásjelek_Használata.md",
-    "Irodalom/2.Klasszicizmus/12.Az_Angol_Líra.md",
-    "Földrajz/Népesség_-és_településföldrajz/4.Emberfajták.md",
     "Biológia/3.?",
     "Történelem/Untitled",
     "Fizika/1.Hőtan",
@@ -208,7 +209,6 @@
     "Biológia",
     "Irodalom/2.Klasszicizmus",
     "Irodalom/1.Barokk",
-    "Excalidraw",
     "Földrajz/Népesség_-és_településföldrajz/3.Korfa.png",
     "Untitled.canvas",
     "Kémia/Életerő Elmélet.canvas"
