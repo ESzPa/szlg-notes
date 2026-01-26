@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Történelem/1.Középkor/11.Szent_László.md",
+                "file": "Irodalom/Magyar_Felvilágosodás/16.Magyar_Felvilágosodás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.Szent_László"
+              "title": "16.Magyar_Felvilágosodás"
             }
           }
         ],
@@ -188,8 +188,12 @@
   },
   "active": "33713f41c2569b3a",
   "lastOpenFiles": [
-    "Történelem/1.Középkor/10.11.század.md",
+    "Irodalom/2.Klasszicizmus/15.Összefoglalás.md",
+    "Irodalom/Magyar_Felvilágosodás/16.Magyar_Felvilágosodás.md",
+    "Irodalom/Magyar_Felvilágosodás",
+    "Irodalom/2.Klasszicizmus/14.Faust.md",
     "Történelem/1.Középkor/11.Szent_László.md",
+    "Történelem/1.Középkor/10.11.század.md",
     "Leckék.md",
     "Kémia/X2.Aklinok.md",
     "Kémia/X2.Összegképlet.excalidraw.md",
@@ -199,11 +203,9 @@
     "Nyelvtan/7.Beszédhelyzet.md",
     "Nyelvtan/6.Szöveg.md",
     "Biológia/3.?/2.Mozgas.md",
-    "Irodalom/2.Klasszicizmus/15.Összefoglalás.md",
     "Földrajz/Világgazdaság/1.Fejlettség_mérése.md",
     "Földrajz/Világgazdaság/1.GDP_per_capita.png",
     "Irodalom/2.Klasszicizmus/12.Az_Angol_Líra.md",
-    "Irodalom/2.Klasszicizmus/14.Faust.md",
     "Irodalom/2.Klasszicizmus/11.Felvilágosodás.md",
     "Irodalom/2.Klasszicizmus/13.Candide.md",
     "Irodalom/3.Felvilágosodás",
@@ -216,7 +218,6 @@
     "Földrajz/Népesség_-és_településföldrajz/3.Népesség-összetétel.excalidraw.md",
     "Földrajz/Népesség_-és_településföldrajz/7.Népesség_területi_eloszlása.md",
     "Földrajz/Népesség_-és_településföldrajz/8.Migráció.md",
-    "Földrajz/Népesség_-és_településföldrajz/9.Település_földrajz.md",
     "Biológia/3.?",
     "Történelem/Untitled",
     "Fizika/1.Hőtan",
@@ -224,7 +225,6 @@
     "Biológia/2.Anyagcsere",
     "Biológia",
     "Irodalom/2.Klasszicizmus",
-    "Irodalom/1.Barokk",
     "Földrajz/Népesség_-és_településföldrajz/3.Korfa.png",
     "Untitled.canvas",
     "Kémia/Életerő Elmélet.canvas"
