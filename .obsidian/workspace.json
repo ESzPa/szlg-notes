@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "161fbe72f10fddd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/X2.Aklinok.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "X2.Aklinok"
-            }
-          },
-          {
             "id": "33713f41c2569b3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biológia/3.?/4.Emberi_szív.md",
+                "file": "Irodalom/Magyar_Felvilágosodás/18.Csokonai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.Emberi_szív"
+              "title": "18.Csokonai"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,12 +173,16 @@
   },
   "active": "33713f41c2569b3a",
   "lastOpenFiles": [
-    "Biológia/3.?/3.Keringés.md",
+    "Irodalom/Magyar_Felvilágosodás/17.Nyelvújítás.md",
+    "Irodalom/Magyar_Felvilágosodás/18.Csokonai.md",
+    "Irodalom/Magyar_Felvilágosodás/16.Magyar_Felvilágosodás.md",
+    "Történelem/1.Középkor/12.Könyves_Kálmán.md",
+    "Kémia/X2.Aklinok.md",
     "Biológia/3.?/4.Emberi_szív.md",
+    "Biológia/3.?/3.Keringés.md",
     "Nyelvtan/8.Kapcsolódóelemek_a_szövegben.md",
     "Nyelvtan/7.Beszédhelyzet.md",
     "Történelem/1.Középkor/11.Szent_László.md",
-    "Irodalom/Magyar_Felvilágosodás/16.Magyar_Felvilágosodás.md",
     "Földrajz/Világgazdaság/2.Telepítö_tényezök.md",
     "Földrajz/Világgazdaság/1.Fejlettség_mérése.md",
     "Földrajz/Világgazdaság/1.GDP_per_capita.png",
@@ -202,7 +191,6 @@
     "Irodalom/2.Klasszicizmus/14.Faust.md",
     "Történelem/1.Középkor/10.11.század.md",
     "Leckék.md",
-    "Kémia/X2.Aklinok.md",
     "Kémia/X2.Összegképlet.excalidraw.md",
     "Történelem/1.Középkor/9.Szent_István.md",
     "Történelem/1.Középkor/9.Szent_István.excalidraw.md",
@@ -215,9 +203,6 @@
     "Kémia/X1.Telítetlen_Szénhidrogének.md",
     "Nyelvtan/1.Az_Állítmány.md",
     "Földrajz/Világgazdaság",
-    "Történelem/1.Középkor/8.Géza_Fejedelem.md",
-    "Történelem/1.Középkor/7.Magyar_Nép_Őstörténete.md",
-    "Földrajz/Népesség_-és_településföldrajz/3.Népesség-összetétel.md",
     "Biológia/3.?",
     "Történelem/Untitled",
     "Fizika/1.Hőtan",
