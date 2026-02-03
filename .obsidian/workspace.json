@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Irodalom/Magyar_Felvilágosodás/18.Csokonai.md",
+                "file": "Irodalom/2.Klasszicizmus/12.Az_Angol_Líra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18.Csokonai"
+              "title": "12.Az_Angol_Líra"
+            }
+          },
+          {
+            "id": "7eb650bf67b841bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Földrajz/Világgazdaság/2.Telepítö_tényezök.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.Telepítö_tényezök"
             }
           }
         ]
@@ -173,9 +187,13 @@
   },
   "active": "33713f41c2569b3a",
   "lastOpenFiles": [
-    "Irodalom/Magyar_Felvilágosodás/17.Nyelvújítás.md",
-    "Irodalom/Magyar_Felvilágosodás/18.Csokonai.md",
-    "Irodalom/Magyar_Felvilágosodás/16.Magyar_Felvilágosodás.md",
+    "Irodalom/2.Klasszicizmus/14.Faust.md",
+    "Földrajz/Világgazdaság/2.Telepítö_tényezök.md",
+    "Irodalom/2.Klasszicizmus/12.Az_Angol_Líra.md",
+    "Irodalom/2.Klasszicizmus/11.Felvilágosodás.md",
+    "Irodalom/3.Magyar_Felvilágosodás/18.Csokonai.md",
+    "Irodalom/3.Magyar_Felvilágosodás/17.Nyelvújítás.md",
+    "Irodalom/3.Magyar_Felvilágosodás/16.Magyar_Felvilágosodás.md",
     "Történelem/1.Középkor/12.Könyves_Kálmán.md",
     "Kémia/X2.Aklinok.md",
     "Biológia/3.?/4.Emberi_szív.md",
@@ -183,12 +201,10 @@
     "Nyelvtan/8.Kapcsolódóelemek_a_szövegben.md",
     "Nyelvtan/7.Beszédhelyzet.md",
     "Történelem/1.Középkor/11.Szent_László.md",
-    "Földrajz/Világgazdaság/2.Telepítö_tényezök.md",
     "Földrajz/Világgazdaság/1.Fejlettség_mérése.md",
     "Földrajz/Világgazdaság/1.GDP_per_capita.png",
     "Irodalom/2.Klasszicizmus/15.Összefoglalás.md",
-    "Irodalom/Magyar_Felvilágosodás",
-    "Irodalom/2.Klasszicizmus/14.Faust.md",
+    "Irodalom/3.Magyar_Felvilágosodás",
     "Történelem/1.Középkor/10.11.század.md",
     "Leckék.md",
     "Kémia/X2.Összegképlet.excalidraw.md",
@@ -196,8 +212,6 @@
     "Történelem/1.Középkor/9.Szent_István.excalidraw.md",
     "Nyelvtan/6.Szöveg.md",
     "Biológia/3.?/2.Mozgas.md",
-    "Irodalom/2.Klasszicizmus/12.Az_Angol_Líra.md",
-    "Irodalom/2.Klasszicizmus/11.Felvilágosodás.md",
     "Irodalom/2.Klasszicizmus/13.Candide.md",
     "Irodalom/3.Felvilágosodás",
     "Kémia/X1.Telítetlen_Szénhidrogének.md",
