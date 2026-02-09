@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Irodalom/2.Klasszicizmus/12.Az_Angol_Líra.md",
+                "file": "Kémia/X3.Összefoglalás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.Az_Angol_Líra"
-            }
-          },
-          {
-            "id": "7eb650bf67b841bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biológia/3.?/6.Immunrendszer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.Immunrendszer"
+              "title": "X3.Összefoglalás"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,18 +168,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "sheet-plus:Create excel file": false
     }
   },
-  "active": "7eb650bf67b841bf",
+  "active": "33713f41c2569b3a",
   "lastOpenFiles": [
-    "Biológia/3.?/5.Keringés_egészségtana.md",
+    "Kémia/X2.Összegképlet.excalidraw.md",
+    "Kémia/Excel 2026-02-09 10.56.38.univer.md",
+    "Kémia/X3.Összefoglalás.md",
+    "Irodalom/2.Klasszicizmus/12.Az_Angol_Líra.md",
     "Biológia/3.?/6.Immunrendszer.md",
+    "Biológia/3.?/5.Keringés_egészségtana.md",
     "Történelem/1.Középkor/13.II.András.md",
     "Történelem/1.Középkor/12.Könyves_Kálmán.md",
     "Történelem/1.Középkor/11.Szent_László.md",
     "Földrajz/Világgazdaság/3.Gazdasági_rendszerek.md",
-    "Irodalom/2.Klasszicizmus/12.Az_Angol_Líra.md",
     "Földrajz/Világgazdaság/2.Telepítö_tényezök.md",
     "Irodalom/2.Klasszicizmus/14.Faust.md",
     "Irodalom/2.Klasszicizmus/11.Felvilágosodás.md",
@@ -212,10 +201,7 @@
     "Irodalom/3.Magyar_Felvilágosodás",
     "Történelem/1.Középkor/10.11.század.md",
     "Leckék.md",
-    "Kémia/X2.Összegképlet.excalidraw.md",
     "Történelem/1.Középkor/9.Szent_István.md",
-    "Történelem/1.Középkor/9.Szent_István.excalidraw.md",
-    "Nyelvtan/6.Szöveg.md",
     "Irodalom/3.Felvilágosodás",
     "Földrajz/Világgazdaság",
     "Biológia/3.?",

@@ -39,7 +39,7 @@
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
-  "matchTheme": false,
+  "matchTheme": true,
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
