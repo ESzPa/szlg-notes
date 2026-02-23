@@ -6,7 +6,7 @@
 - Diszperziós kötés *(gyenge!)*
 	- $M_{CH_{4}}=12+41=16(g/mol)$
 - **Molekula szerkezet**
-	- Tetraéderes [*Rajz*](Kémia/X.Telített_Szénhidrogének.excalidraw.md)
+	- Tetraéderes [*Rajz*](X.Telített_Szénhidrogének.excalidraw.md)
 		- α = 109.5°
 	- $EN_{C} = 2.5$
 	- $EN_{H} = 2.1$

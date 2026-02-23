@@ -21,7 +21,7 @@
 		- [Francia Klasszicista Színház Dráma](9.Francia_Klasszicista_Színház_És_Dráma.md)
 - **Kémia**
 	- [Életerő Elmélet](1.Életerő_Elmélet.md)
-	- [X.Telített_Szénhidrogének](Kémia/X.Telített_Szénhidrogének.md)
+	- [X.Telített_Szénhidrogének](X.Telített_Szénhidrogének.md)
 - **Földrajz**
 	- **Népesség -és Településföldrajz**
 		- [Népesség Földrajz](Földrajz/Népesség_-és_településföldrajz/1.Népesség_Földrajz.md)
