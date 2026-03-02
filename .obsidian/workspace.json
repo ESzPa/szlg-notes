@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biológia/3.Embertan/7.Összefoglalás.md",
+                "file": "Kémia/1.Hetero_atomok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.Összefoglalás"
+              "title": "1.Hetero_atomok"
             }
           }
         ]
@@ -172,9 +172,12 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "1899aa986f91a83b",
+  "active": "33713f41c2569b3a",
   "lastOpenFiles": [
     "Biológia/3.Embertan/6.Immunrendszer.md",
+    "Biológia/3.Embertan/3.Keringés.md",
+    "Biológia/3.Embertan/5.Keringés_egészségtana.md",
+    "Biológia/3.Embertan/4.Emberi_szív.md",
     "Biológia/3.Embertan/7.Összefoglalás.md",
     "Történelem/1.Középkor/14.IV.Béla.md",
     "Kémia/Szénhidrogének/X3.Összefoglalás.md",
@@ -193,15 +196,12 @@
     "Kémia/Szénhidrogének/X2.Összegképlet.excalidraw.md",
     "Kémia/Excel 2026-02-09 10.56.38.univer.md",
     "Irodalom/2.Klasszicizmus/12.Az_Angol_Líra.md",
-    "Biológia/3.Embertan/5.Keringés_egészségtana.md",
     "Földrajz/Világgazdaság/2.Telepítö_tényezök.md",
     "Irodalom/2.Klasszicizmus/14.Faust.md",
     "Irodalom/2.Klasszicizmus/11.Felvilágosodás.md",
     "Irodalom/3.Magyar_Felvilágosodás/18.Csokonai.md",
     "Irodalom/3.Magyar_Felvilágosodás/17.Nyelvújítás.md",
     "Irodalom/3.Magyar_Felvilágosodás/16.Magyar_Felvilágosodás.md",
-    "Kémia/Szénhidrogének/X2.Aklinok.md",
-    "Biológia/3.Embertan/4.Emberi_szív.md",
     "Irodalom/3.Magyar_Felvilágosodás",
     "Irodalom/3.Felvilágosodás",
     "Földrajz/Világgazdaság",
