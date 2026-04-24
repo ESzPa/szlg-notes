@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Földrajz/Világgazdaság/6.Pénz.md",
+                "file": "Biológia/5./1.Életfolyamatok_Szabályozása.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.Pénz"
+              "title": "1.Életfolyamatok_Szabályozása"
             }
           }
         ]
@@ -172,13 +172,15 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "33713f41c2569b3a",
+  "active": "1899aa986f91a83b",
   "lastOpenFiles": [
-    "Biológia/4.Légzés/3.Kiválasztás.md",
+    "Biológia/4.Szervrendszerek/3.Kiválasztás.md",
+    "Biológia/5./1.Életfolyamatok_Szabályozása.md",
+    "Biológia/5.",
+    "Földrajz/Világgazdaság/6.Pénz.md",
     "Kémia/1.Hetero_atomok.md",
     "Kémia/2.Oxóvegyületek.md",
-    "Biológia/4.Légzés/2.Táplálkozás.md",
-    "Földrajz/Világgazdaság/6.Pénz.md",
+    "Biológia/4.Szervrendszerek/2.Táplálkozás.md",
     "Történelem/1.Középkor/16.Anjou_Dinasztia.md",
     "Történelem/1.Középkor/14.IV.Béla.md",
     "Történelem/1.Középkor/15.Összefoglalás.md",
@@ -190,9 +192,9 @@
     "Történelem/1.Középkor/7.Magyar_Nép_Őstörténete.md",
     "Történelem/1.Középkor/3.Harcolók.md",
     "Történelem/1.Középkor/1.A_Középkori_Egyház.md",
-    "Biológia/4.Légzés/1.Légzés.md",
+    "Biológia/4.Szervrendszerek/1.Légzés.md",
     "Biológia/3.Embertan/7.Összefoglalás.md",
-    "Biológia/4.Légzés",
+    "Biológia/4.Szervrendszerek",
     "Földrajz/Világgazdaság/5.TNC-k.md",
     "Földrajz/Világgazdaság/4.RGI-k.md",
     "Biológia/3.Embertan/6.Immunrendszer.md",
@@ -201,7 +203,6 @@
     "Biológia/3.Embertan/4.Emberi_szív.md",
     "Kémia/Szénhidrogének/X3.Összefoglalás.md",
     "Földrajz/Világgazdaság/1.GDP_per_capita.png",
-    "Földrajz/Világgazdaság/1.Fejlettség_mérése.md",
     "Kémia/Szénhidrogének",
     "Irodalom/3.Magyar_Felvilágosodás",
     "Irodalom/3.Felvilágosodás",
@@ -210,7 +211,6 @@
     "Történelem/Untitled",
     "Fizika/1.Hőtan",
     "Fizika",
-    "Biológia/2.Anyagcsere",
     "Földrajz/Népesség_-és_településföldrajz/3.Korfa.png",
     "Untitled.canvas",
     "Kémia/Életerő Elmélet.canvas"
