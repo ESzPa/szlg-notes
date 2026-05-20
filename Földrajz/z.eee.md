@@ -24,3 +24,71 @@
                 - Katonai beavatkozás
         - Bíróság
             - Hágai nemzetközi bíróság
+- Több országot magukban foglaló szervezetek
+- Világ különféle társadalmi, gazdasági problémáira keresik a választ
+# ENSZ: világ legnagyobb szervezete (angolul UNO)
+- Egyesült Nemzetek Szervezete
+- Cél: világbéke megtartása
+- Székhelye: New York
+- Vezetője: Főtitkár
+	- Mögötte a titkárság
+	- ők végzik el az adminisztratív dolgokat
+- Majdnem minden ország a tagja
+- Rengeteg intézménye van
+	- Közgyűlés
+	- ENSZ BT (biztonsági tanács)
+		- 15 tagja van
+			- 5 állandó tag
+				- USA
+				- Oroszország
+				- Kína
+				- Egyessült Királyság
+				- Franciaország
+		- Konfliktus történése során összejön az ENSZ BT
+			- Tárgyalásos úton konfliktus megoldása
+			- Katonai beavatkozás
+	- Bíróság
+		- Hágai nemzetközi bíróság
+	- Szakosított szerv
+		- WHO (World Health Organisation)
+			- Feladata
+				- Világszinten az egészségügyi helyzetet átlássa, felügyelje
+				- Járványhelyzetben beavatkozzon
+		- WWF (World Wildlife Founds)
+			- Veszélyeztetett fajok védelme
+			- Természetvédelem
+		- UNESCO (United Nations Educational, Scientific and Cultural Organization)
+		- UNICEF (_United Nations International Children's Emergency Fund_)
+			- Gyermekvédelem
+			- Gyermekjogok
+		- FAO (Food and Agriculture Organisation)
+			- Étel, mezőgazdasági szervezet
+	- Pénzügyi intézmények
+		- IMF (International Monetary Funds)
+			- A világ pénzügyi rendszerének stabilitását igyekszik megőrizni
+			- Ha egy ország rossz helyzetben van, akkor adnak nekik hitelt
+			- Általában nem népszerű
+			- Csak akkor fordulnak hozzájuk, amikor már senki más nem ad pénzt
+		- Világbank (Worldbank)
+			- Nagy beruházásokra, infrastruktúra fejlesztésre ad hitelt
+			- Hosszú futamidő
+# NATO
+- Katonai védelmi jellegű szervezet
+- 1949-ben alapították
+- Tagjai a második világháború nyertesei
+- Szocialista tömbbel szemben
+- Magyarország 1999-ben csatlakozott
+# WTO (World Trade Organisation)
+- Célja a szabad kereskedelem minél inkább teret kapjon a világban
+- Globalizációt mélyíti el
+# OPEC (Organisation of the  Petroleum Exporting Countries)
+- Olaj exportáló országok szervezete
+- Cél: tagállamok összehangolják az olajkereskedelmi politikáját az országoknak
+	- Alapvető befolyással lennének a világpiacra
+- Bécs a székhelye
+- Tagjai
+	- Rengeteg ázsiai tagja van
+	- Equador
+# OECD
+- Fejlett országok a tagjai
+- Célja: fejlett országok kapcsolat rendszerét próbálja élénkíteni és katalizálni a fejlődésüket
