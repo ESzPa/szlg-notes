@@ -68,6 +68,114 @@
 
     content("c.south", text(size: 1.15em)[ $"OP" = "r"$ ], anchor: "north", padding: 0.25)
   }),
+
+  text(size: 1.25em)[
+    *Középponti szög $(alpha)$:*\
+    egy szög amelynek a csúcsa egy adott kör középpontja\
+    \
+    *Kerületi szög $(beta)$:*\
+    egy szög, amelynek csúcsa a körvonal egy pontja, szárai pedig illeszkednek:
+    1. a kör két húrjára, vagy
+    2. a kör egy húrjára és egy érintőjére.
+  ],
+
+  cetz.canvas({
+    import cetz.draw: *
+
+    let r-val = 3
+    let pos-angle = 300deg
+    let angle = 35deg
+
+    let start-a = pos-angle - angle
+    let stop-a = pos-angle + angle
+
+    let p_1 = (r-val * calc.cos(start-a), r-val * calc.sin(start-a))
+    let p_2 = (r-val * calc.cos(stop-a), r-val * calc.sin(stop-a))
+    let p_3 = (r-val * calc.cos(pos-angle + 180deg), r-val * calc.sin(pos-angle + 180deg))
+
+    let p_4 = p_1
+
+    let tan-dir = start-a + 90deg - 360deg
+    let chord-dir = 30deg
+    let mid-purple = (tan-dir + chord-dir) / 2
+
+    let p_5_forward = (p_4.at(0) + 2.2 * calc.cos(tan-dir), p_4.at(1) + 2.2 * calc.sin(tan-dir))
+    let p_5_back = (p_4.at(0) - 1.2 * calc.cos(tan-dir), p_4.at(1) - 1.2 * calc.sin(tan-dir))
+
+    circle((0, 0), radius: r-val, stroke: 1pt + luma(50), name: "c")
+
+    arc(
+      (0, 0),
+      start: start-a,
+      stop: stop-a,
+      radius: r-val,
+      anchor: "origin",
+      stroke: 1.2pt + red,
+    )
+
+    arc(
+      (0, 0),
+      start: start-a,
+      stop: stop-a,
+      radius: 1.1,
+      anchor: "origin",
+      mode: "PIE",
+      stroke: 1pt + blue,
+      fill: blue.lighten(85%),
+    )
+    content(
+      (0.7 * calc.cos(pos-angle), 0.7 * calc.sin(pos-angle)),
+      [ *$alpha$* ],
+    )
+
+    arc(
+      p_3,
+      start: pos-angle - angle / 2,
+      stop: pos-angle + angle / 2,
+      radius: 1.5,
+      anchor: "origin",
+      mode: "PIE",
+      stroke: 1pt + green.darken(20%),
+      fill: green.lighten(85%),
+    )
+    content(
+      (
+        p_3.at(0) + 1.1 * calc.cos(pos-angle),
+        p_3.at(1) + 1.1 * calc.sin(pos-angle),
+      ),
+      [ *$beta$* ],
+    )
+
+    arc(
+      p_4,
+      start: tan-dir,
+      stop: chord-dir,
+      radius: 1.2,
+      anchor: "origin",
+      mode: "PIE",
+      stroke: 1pt + purple,
+      fill: purple.lighten(85%),
+    )
+    content(
+      (
+        p_4.at(0) + 0.8 * calc.cos(mid-purple),
+        p_4.at(1) + 0.8 * calc.sin(mid-purple),
+      ),
+      [ *$beta$* ],
+    )
+
+    line((0, 0), p_1, stroke: 1.2pt + blue)
+    line((0, 0), p_2, stroke: 1.2pt + blue)
+    line(p_3, p_1, stroke: 1.2pt + green.darken(20%))
+    line(p_3, p_2, stroke: 1.2pt + green.darken(20%))
+    line(p_4, p_2, stroke: 1.2pt + purple)
+    line(p_5_back, p_5_forward, stroke: 1.2pt + purple)
+
+    circle((0, 0), radius: 2.5pt, fill: black)
+    circle(p_1, radius: 2.5pt, fill: blue)
+    circle(p_2, radius: 2.5pt, fill: blue)
+    circle(p_3, radius: 2.5pt, fill: green.darken(20%))
+  }),
 )
 
 === Kör típusai
@@ -168,8 +276,8 @@
     content((5.3, 3.9), [ Körgyűrű ], anchor: "west")
 
     circle((0, 0), radius: 2.5pt, fill: black)
-    circle(p-small, radius: 2.5pt, fill: black)
-    circle(p-big, radius: 2.5pt, fill: black)
+    circle(p-small, radius: 2.5pt, fill: blue)
+    circle(p-big, radius: 2.5pt, fill: blue)
 
     content((0, 0), [ $O$ ], anchor: "south-west", padding: 0.25)
     content(((0, 0), 50%, p-small), [ $r$ ], anchor: "east", padding: 0.25)
@@ -252,4 +360,23 @@
     *Érintőek*\
     $d(o, e) = r$
   ],
+)
+
+=== Thálész-tétel
+#grid(
+  columns: (1fr, auto),
+  align: (left + horizon, right + horizon),
+  gutter: 1em,
+
+  text(size: 1.25em)[
+    Ha egy kör valamely átmérőjének két végpontját összekötjük a kör bármely más pontjával akkor derékszögű háromszöget kapunk, amelynek átfogója a kör átmérője
+  ],
+
+  cetz.canvas({
+    import cetz.draw: *
+
+    let r-val = 3
+
+    circle((0, 0), radius: r-val, stroke: 1pt + luma(50), name: "c")
+  }),
 )
