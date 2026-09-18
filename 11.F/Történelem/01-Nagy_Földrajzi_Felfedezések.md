@@ -5,3 +5,40 @@
 	- Nő az átlaghőmérséklet
 	- Véget ér a pestisjárvány
 	- Mezőgazdasági technikák fejlődése *háromnyomásos gazdálkodás*
+	- Nyersanyag-, földhiány
+- **Selyemút**
+	- Levante
+	- Kereskedelmi monopólium *(Velence, Genova)*
+	- Luxuscikkek *(arany, ezüst fizetségül)*
+- **Hanza** *(Lübeck, Rostock, Hamburg)*
+- **Champagne**: selyemutat és hanzát összekötő vonal
+- Kialakul aranyéhség *(kimerültek a magyar és cseh bányák)*
+- Oszmán birodalom terjeszked Kis-Ázsiában
+- Létrejön a spanyol királyság és Portugália
+- **Toscanelli**: csillagász *föld gömbölyű*
+- **Karavella**: új hajótípus *(karakk, galleon)*
+	- Széles-, erős hajótest
+	- Négyszögletes és háromszög alakú vitorlák
+	- Manőverezhető
+- **Bartolomeo Biaz**: Jóreménység-fokának elérése
+- **Vasco da Gama**: Afrika megkerülésével India elérése *1497/98*
+- **Magellán**: Föld körbehajózása *1519-1521*
+- **Kolombusz Kristóf**: Indiánok elnevezése *(1492)*
+- **Amerigo Vespucci**: Amerika elnevezése *(egy térképész róla)*
+- **Sir Francis Drake**: Virginia elnevezése I. Erzsébetről
+- **Pizarro**: Inka birodalom romba döntése
+- **Cortez**: Azték birodalom romba döntése
+- **Gyarmatosítás folyamata**
+	- Európai államok fennhatóságot akarnak szerezni a felfedezett területek felett
+	- Dél-Amerikában Inkák voltak fejlettek
+	- Hittérítés kereszténységre
+	- 90%-a az őslakosoknak egy évszázad alatt elpusztult
+- **Tordesillasi szerződés**: az akkor ismert világ felosztása
+	- **Spanyol**: Amerika kivéve Brazília
+	- **Portugália**: Afrika és Brazília
+- **Zaragozai szerződés**: újabb felosztás
+- **Konkvisztádorok**: spanyol hódítók
+- **Gyarmat**: fegyverrel meghódított Európán kívüli tartomány
+- **Új növények**: krumpli, bab, kukorica, paradicsom, tök, édesburgonya
+- **Amerikába új élőlények Európán keresztül**: tyúk, marha, búza, rizs, ló
+- **Gyapot**: pamutgyártás alapanyaga
