@@ -1,17 +1,11 @@
 #import "@preview/cetz:0.5.2"
+#import "config.typ": setup
 
-#set page(
-  width: 18cm,
-  height: auto,
-  margin: (x: 1cm, y: 1cm),
+#show: doc => setup(
+  title: "A Körrel Kapcsolatos Ismeretek Bővítése",
+  subtitle: "A Körrel Kapcsolatos Ismeretek Bővítése",
+  doc,
 )
-
-#show heading.where(level: 1): set align(center)
-#show heading.where(level: 2): set align(center)
-#show heading.where(level: 3): it => block(above: 3em, below: 1.2em)[
-  #set text(size: 1.2em)
-  #underline(it.body)
-]
 
 #let make-hatch-circle(r, spacing: 0.3, stroke: 0.55pt + luma(140)) = {
   import cetz.draw: line
@@ -30,9 +24,6 @@
     d += spacing
   }
 }
-
-= A Körrel Kapcsolatos Ismeretek Bővítése
-== A Körrel Kapcsolatos Ismeretek Bővítése
 
 === Definíciók
 #grid(
@@ -412,7 +403,7 @@
         p_3.at(0) + 0.55 * calc.cos(a3_mid),
         p_3.at(1) + 0.55 * calc.sin(a3_mid),
       ),
-      [ $90°$ ],
+      [ $90 degree$ ],
     )
 
     arc(
@@ -430,7 +421,7 @@
         p_4.at(0) + 0.55 * calc.cos(a4_mid),
         p_4.at(1) + 0.55 * calc.sin(a4_mid),
       ),
-      [ $90°$ ],
+      [ $90 degree$ ],
     )
 
     line(p_1, p_2, stroke: 1.2pt)
