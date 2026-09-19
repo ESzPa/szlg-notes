@@ -362,14 +362,18 @@
   ],
 )
 
-=== Thálész-tétel
+=== Thálész-tétel, és megfordítása
 #grid(
   columns: (1fr, auto),
   align: (left + horizon, right + horizon),
   gutter: 1em,
 
   text(size: 1.25em)[
-    Ha egy kör valamely átmérőjének két végpontját összekötjük a kör bármely más pontjával akkor derékszögű háromszöget kapunk, amelynek átfogója a kör átmérője
+    *Tétel:*\
+    Ha egy kör valamely átmérőjének két végpontját összekötjük a kör bármely más pontjával akkor derékszögű háromszöget kapunk, amelynek átfogója a kör átmérője\
+
+    *Megfordítása:*\
+    Derékszögű háromszög köré írt körének középpontja, az átfogó felezőpontja
   ],
 
   cetz.canvas({
@@ -377,6 +381,158 @@
 
     let r-val = 3
 
+    let p_1 = (r-val * calc.cos(0deg), r-val * calc.sin(0deg))
+    let p_2 = (r-val * calc.cos(180deg), r-val * calc.sin(180deg))
+
+    let p_3 = (r-val * calc.cos(50deg), r-val * calc.sin(50deg))
+    let p_4 = (r-val * calc.cos(140deg), r-val * calc.sin(140deg))
+
+    let a3_start = calc.atan2(p_2.at(0) - p_3.at(0), p_2.at(1) - p_3.at(1))
+    let a3_stop = calc.atan2(p_1.at(0) - p_3.at(0), p_1.at(1) - p_3.at(1))
+    let a3_mid = (a3_start + a3_stop) / 2
+
+    let a4_start = calc.atan2(p_2.at(0) - p_4.at(0), p_2.at(1) - p_4.at(1))
+    let a4_stop = calc.atan2(p_1.at(0) - p_4.at(0), p_1.at(1) - p_4.at(1))
+    let a4_mid = (a4_start + a4_stop) / 2
+
     circle((0, 0), radius: r-val, stroke: 1pt + luma(50), name: "c")
+
+    arc(
+      p_3,
+      start: a3_start,
+      stop: a3_stop,
+      radius: 1,
+      anchor: "origin",
+      mode: "PIE",
+      stroke: 1pt + blue,
+      fill: blue.lighten(85%),
+    )
+    content(
+      (
+        p_3.at(0) + 0.55 * calc.cos(a3_mid),
+        p_3.at(1) + 0.55 * calc.sin(a3_mid),
+      ),
+      [ $90°$ ],
+    )
+
+    arc(
+      p_4,
+      start: a4_start,
+      stop: a4_stop,
+      radius: 1,
+      anchor: "origin",
+      mode: "PIE",
+      stroke: 1pt + green.darken(20%),
+      fill: green.lighten(85%),
+    )
+    content(
+      (
+        p_4.at(0) + 0.55 * calc.cos(a4_mid),
+        p_4.at(1) + 0.55 * calc.sin(a4_mid),
+      ),
+      [ $90°$ ],
+    )
+
+    line(p_1, p_2, stroke: 1.2pt)
+
+    line(p_3, p_1, stroke: 1.2pt + blue)
+    line(p_3, p_2, stroke: 1.2pt + blue)
+
+    line(p_4, p_1, stroke: 1.2pt + green.darken(20%))
+    line(p_4, p_2, stroke: 1.2pt + green.darken(20%))
+
+    circle((0, 0), radius: 2.5pt, fill: black)
+    content((0, 0), [ $O$ ], anchor: "north-east", padding: 0.15)
+
+    circle(p_1, radius: 2.5pt, fill: black)
+    circle(p_2, radius: 2.5pt, fill: black)
+
+    circle(p_3, radius: 2.5pt, fill: blue, stroke: 0.5pt + black)
+    circle(p_4, radius: 2.5pt, fill: green.darken(20%), stroke: 0.5pt + black)
+  }),
+)
+
+=== Kerületi és középponti szögek tétele, és következménye
+#grid(
+  columns: (1fr, auto),
+  align: (left + horizon, right + horizon),
+  gutter: 1em,
+
+  text(size: 1.25em)[
+    *Tétel:*\
+    Adott körben adott ívhez tartozó bármely kerületi szög nagysága fele az ugyanazon ívhez tartozó középponti szög nagyságának\
+
+    *Következménye:*\
+    Adott kör adott ívéhez tartozó kerületi szögek nagysága megegyezik
+  ],
+
+  cetz.canvas({
+    import cetz.draw: *
+
+    let r-val = 3
+    let pos-angle = 300deg
+    let angle = 35deg
+
+    let start-a = pos-angle - angle
+    let stop-a = pos-angle + angle
+
+    let p_1 = (r-val * calc.cos(start-a), r-val * calc.sin(start-a))
+    let p_2 = (r-val * calc.cos(stop-a), r-val * calc.sin(stop-a))
+    let p_3 = (r-val * calc.cos(pos-angle + 180deg), r-val * calc.sin(pos-angle + 180deg))
+
+    circle((0, 0), radius: r-val, stroke: 1pt + luma(50), name: "c")
+    content("c.south", text(size: 1.15em)[ $alpha = 2 beta$ ], anchor: "north", padding: 0.25)
+
+    arc(
+      (0, 0),
+      start: start-a,
+      stop: stop-a,
+      radius: r-val,
+      anchor: "origin",
+      stroke: 1.2pt + red,
+    )
+
+    arc(
+      (0, 0),
+      start: start-a,
+      stop: stop-a,
+      radius: 1.1,
+      anchor: "origin",
+      mode: "PIE",
+      stroke: 1pt + blue,
+      fill: blue.lighten(85%),
+    )
+    content(
+      (0.7 * calc.cos(pos-angle), 0.7 * calc.sin(pos-angle)),
+      [ *$alpha$* ],
+    )
+
+    arc(
+      p_3,
+      start: pos-angle - angle / 2,
+      stop: pos-angle + angle / 2,
+      radius: 1.5,
+      anchor: "origin",
+      mode: "PIE",
+      stroke: 1pt + green.darken(20%),
+      fill: green.lighten(85%),
+    )
+    content(
+      (
+        p_3.at(0) + 1.1 * calc.cos(pos-angle),
+        p_3.at(1) + 1.1 * calc.sin(pos-angle),
+      ),
+      [ *$beta$* ],
+    )
+
+    line((0, 0), p_1, stroke: 1.2pt + blue)
+    line((0, 0), p_2, stroke: 1.2pt + blue)
+    line(p_3, p_1, stroke: 1.2pt + green.darken(20%))
+    line(p_3, p_2, stroke: 1.2pt + green.darken(20%))
+
+    circle((0, 0), radius: 2.5pt, fill: black)
+    circle(p_1, radius: 2.5pt, fill: blue)
+    circle(p_2, radius: 2.5pt, fill: blue)
+    circle(p_3, radius: 2.5pt, fill: green.darken(20%))
   }),
 )
