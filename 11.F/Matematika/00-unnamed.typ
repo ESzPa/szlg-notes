@@ -723,9 +723,75 @@
 
   cetz.canvas({
     import cetz.draw: *
+
     let r = 1.8
 
+    let p_1_angle = 125deg
+    let p_2_angle = 320deg
+
+    let p_1 = (r * calc.cos(p_1_angle), r * calc.sin(p_1_angle))
+    let p_2 = (r * calc.cos(p_2_angle), r * calc.sin(p_2_angle))
+
+    let A = (r * calc.cos(180deg), r * calc.sin(180deg))
+    let B = (r * calc.cos(0deg), r * calc.sin(0deg))
+
+    let p1_a_angle = calc.atan2(A.at(0) - p_1.at(0), A.at(1) - p_1.at(1))
+    let p1_b_angle = calc.atan2(B.at(0) - p_1.at(0), B.at(1) - p_1.at(1))
+
+    let p2_a_angle = calc.atan2(A.at(0) - p_2.at(0), A.at(1) - p_2.at(1))
+    let p2_b_angle = calc.atan2(B.at(0) - p_2.at(0), B.at(1) - p_2.at(1))
+
     circle((0, 0), radius: r, stroke: 1pt + luma(50), name: "c")
+
+    arc(
+      p_1,
+      start: p1_a_angle,
+      stop: p1_b_angle,
+      radius: 0.8,
+      anchor: "origin",
+      mode: "PIE",
+      stroke: 1pt + blue,
+      fill: blue.lighten(85%),
+    )
+    content(
+      (
+        p_1.at(0) + 0.45 * calc.cos((p1_a_angle + p1_b_angle) / 2),
+        p_1.at(1) + 0.45 * calc.sin((p1_a_angle + p1_b_angle) / 2),
+      ),
+      [ *$alpha$* ],
+    )
+
+    arc(
+      p_2,
+      start: p2_b_angle,
+      stop: p2_a_angle,
+      radius: 0.8,
+      anchor: "origin",
+      mode: "PIE",
+      stroke: 1pt + blue,
+      fill: blue.lighten(85%),
+    )
+    content(
+      (
+        p_2.at(0) + 0.45 * calc.cos((p2_a_angle + p2_b_angle) / 2),
+        p_2.at(1) + 0.45 * calc.sin((p2_a_angle + p2_b_angle) / 2),
+      ),
+      [ *$alpha$* ],
+    )
+
+    line(A, B, stroke: 1.2pt)
+    line(p_1, A, stroke: 1.2pt + blue)
+    line(p_1, B, stroke: 1.2pt + blue)
+    line(p_2, A, stroke: 1.2pt + blue)
+    line(p_2, B, stroke: 1.2pt + blue)
+
+    circle(A, radius: 2.5pt, fill: black)
+    circle(B, radius: 2.5pt, fill: black)
+    circle(p_1, radius: 2.5pt, fill: blue)
+    circle(p_2, radius: 2.5pt, fill: blue)
+
+    content(A, [ $A$ ], anchor: "east", padding: 0.25)
+    content(B, [ $B$ ], anchor: "west", padding: 0.25)
   }),
 
   cetz.canvas({
@@ -733,7 +799,7 @@
     let r = 1.8
     let O = (0, 0)
 
-    let inter_pct = .20
+    let inter_pct = .55
     let c1O = (O.at(0), r - r * inter_pct)
     let c2O = (O.at(0), -(r - r * inter_pct))
 
@@ -742,13 +808,73 @@
     let A = (-dx, 0)
     let B = (dx, 0)
 
+    let p_1_angle = 295deg
+    let p_2_angle = 110deg
+
+    let p_1 = (
+      c1O.at(0) + r * calc.cos(p_1_angle),
+      c1O.at(1) + r * calc.sin(p_1_angle),
+    )
+    let p_2 = (
+      c2O.at(0) + r * calc.cos(p_2_angle),
+      c2O.at(1) + r * calc.sin(p_2_angle),
+    )
+
+    let p1_a_angle = calc.atan2(A.at(0) - p_1.at(0), A.at(1) - p_1.at(1))
+    let p1_b_angle = calc.atan2(B.at(0) - p_1.at(0), B.at(1) - p_1.at(1))
+
+    let p2_a_angle = calc.atan2(A.at(0) - p_2.at(0), A.at(1) - p_2.at(1))
+    let p2_b_angle = calc.atan2(B.at(0) - p_2.at(0), B.at(1) - p_2.at(1))
+
     circle(c1O, radius: r, stroke: 1pt + luma(50), name: "c1")
     circle(c2O, radius: r, stroke: 1pt + luma(50), name: "c2")
 
+    arc(
+      p_1,
+      start: p1_a_angle,
+      stop: p1_b_angle,
+      radius: 0.55,
+      anchor: "origin",
+      mode: "PIE",
+      stroke: 1pt + blue,
+      fill: blue.lighten(85%),
+    )
+    content(
+      (
+        p_1.at(0) + 0.35 * calc.cos((p1_a_angle + p1_b_angle) / 2),
+        p_1.at(1) + 0.35 * calc.sin((p1_a_angle + p1_b_angle) / 2),
+      ),
+      [ *$alpha$* ],
+    )
+
+    arc(
+      p_2,
+      start: p2_b_angle,
+      stop: p2_a_angle,
+      radius: 0.55,
+      anchor: "origin",
+      mode: "PIE",
+      stroke: 1pt + blue,
+      fill: blue.lighten(85%),
+    )
+    content(
+      (
+        p_2.at(0) + 0.3 * calc.cos((p2_a_angle + p2_b_angle) / 2),
+        p_2.at(1) + 0.3 * calc.sin((p2_a_angle + p2_b_angle) / 2),
+      ),
+      [ *$alpha$* ],
+    )
+
     line(A, B, stroke: 1.2pt)
+    line(p_1, A, stroke: 1.2pt + blue)
+    line(p_1, B, stroke: 1.2pt + blue)
+    line(p_2, A, stroke: 1.2pt + blue)
+    line(p_2, B, stroke: 1.2pt + blue)
 
     circle(A, radius: 2.5pt, fill: black)
     circle(B, radius: 2.5pt, fill: black)
+    circle(p_1, radius: 2.5pt, fill: blue)
+    circle(p_2, radius: 2.5pt, fill: blue)
 
     content(A, [ $A$ ], anchor: "east", padding: 0.35)
     content(B, [ $B$ ], anchor: "west", padding: 0.35)
