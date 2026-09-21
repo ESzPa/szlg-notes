@@ -20,7 +20,7 @@
 	- 1830 Csongor és Tünde *tétel*
 ## Kölcsey Ferenc
 - *Negatív – nemzethalál vízió*
-- **1823**: Himnusz
+- **1823**: Himnusz *nemzethalál vízió*
 - Régóta nincs előrehaladás
 	- *Magyarság sorsa?*
 - Múlt – Jelen – Jövő
@@ -29,6 +29,8 @@
 - **Jelen**: értékhiányos, értékfosztott
 - Keretes szerkezet
 - A keret nem ellensúlyozza a pusztulás vízióját *áldás* –> *szánalom*
+- **1823**: Vanitatum vanitas *emberiség léte – hiábavaló / irónia*
+- A magyarság felrázása, erkölcsi érzékének feltámasztása  *széthúzás*
 ## Vörösmarty Mihály
 - *Pozitív – nemzethalál vízió*
 - **1836**: Szózat
