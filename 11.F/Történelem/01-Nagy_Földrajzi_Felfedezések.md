@@ -42,3 +42,25 @@
 - **Új növények**: krumpli, bab, kukorica, paradicsom, tök, édesburgonya
 - **Amerikába új élőlények Európán keresztül**: tyúk, marha, búza, rizs, ló
 - **Gyapot**: pamutgyártás alapanyaga
+## Gazdasági és Társadalmi hatásai
+- **Kialakul a világkereskedelem**
+	- Európa
+	- Amerika
+	- Afrika 
+	- Ázsia
+- Rabszolga-kereskedelem Afrikából Amerikába *bányák, ültetvények*
+- **Louisiana**: francia gyarmat
+- **Virginia**: brit gyarmat
+- Nemesfémek *(arany, ezüst)* beáramlása a kontinensre *árucikkek*
+	- Értékcsökkenés *túltermelés*
+- **Árforradalom**
+	- Nemesfém árfolyam csökkenés
+	- Iparcikkek és mezőgazdasági termények árának növekedése *infláció*
+- Reprezentatív építkezések, nagyhatalmi háborúk, hadseregek
+- Középkorban Itália a gazdasági központ *(legfejlettebb terület)*, súlypont a Földközi-tenger. Kora újkorban súlypont az Atlanti-óceán, központ Németalföld, Anglia és az Atlanti-Óceán partvidéke.
+- **Korai kapitalizmus** *(= tőkés gazdaság)*
+- Elválik egymástól a tulajdonos és dolgozó személye
+- **Gazdaság új társadalmi szereplő**: polgár
+	- Kereskedelemmel és iparral foglalkozik
+	- Első részvénytársaságok és vállalkozások létrehozása
+- **Részvénytársaság**: a haszonból a befizetett tőke arányából részesül
