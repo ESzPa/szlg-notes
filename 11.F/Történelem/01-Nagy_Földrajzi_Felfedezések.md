@@ -64,3 +64,29 @@
 	- Kereskedelemmel és iparral foglalkozik
 	- Első részvénytársaságok és vállalkozások létrehozása
 - **Részvénytársaság**: a haszonból a befizetett tőke arányából részesül
+### Termelés beindulása
+1. **Tőke**: befektethető pénz
+2. **Piac**: fizetőképes kereslet *iparcikkek, élelmiszer –> manufaktúra*
+3. **Munkaerő**: népességnövekedés, bérlők alkalmazása
+- **Célja**: profit maximalizálása, uradalom nagyságát növelni
+- **Bekerítések** *juhtermelés –> gyapjú –> textilipar –> ruha*
+	- Anglia
+	- Földbirtokosok *gentry*
+- **Flandria**: textilipar
+- **Munkamegosztás** *cserekereskedelem*
+	- **Kelet**: agrártermelés
+	- **Nyugat**: iparcikkek
+- **Bankrendszer** *bankhálózat, pénzkölcsönzés*
+	- Medici *itáliai bankárcsalád, nagy hitelek*
+	- Fuggerek *német-római zsidócsalád*
+- **Tőzsde**
+	- Áru-, és részvénykereskedelem
+	- Amsterdam, Antwerpen
+
+|                    | Céh                                           | Manufaktúra                                                          |
+| ------------------ | --------------------------------------------- | -------------------------------------------------------------------- |
+| Ki?                | Céhmester – tulaj+dolgozó<br>*(legény, inas)* | Bérmunkás – részmunkafolyamatok<br>*(képzetlenek, alacsony fizetés)* |
+| Munkafolyamat      | Egyész munkát egy ember<br>végzi              | Minden munkát más ember végez                                        |
+| Munkaerő           | Képzett                                       | Képzetlen                                                            |
+| Termék<br>minősége | Egyedi, magas minőségű                        | Tömegtermék, közepes minőségű                                        |
+| Ár                 | Drága                                         | Olcsó                                                                |
