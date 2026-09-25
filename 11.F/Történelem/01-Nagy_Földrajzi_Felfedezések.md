@@ -65,7 +65,7 @@
 	- Első részvénytársaságok és vállalkozások létrehozása
 - **Részvénytársaság**: a haszonból a befizetett tőke arányából részesül
 ### Termelés beindulása
-1. **Tőke**: befektethető pénz
+1. **Tőke**: befektethető pénz/érték
 2. **Piac**: fizetőképes kereslet *iparcikkek, élelmiszer –> manufaktúra*
 3. **Munkaerő**: népességnövekedés, bérlők alkalmazása
 - **Célja**: profit maximalizálása, uradalom nagyságát növelni
@@ -77,11 +77,17 @@
 	- **Kelet**: agrártermelés
 	- **Nyugat**: iparcikkek
 - **Bankrendszer** *bankhálózat, pénzkölcsönzés*
+	- **Bank**: pénzügyi közvetítő intézmény *megtakarítások –> betétek –> hitelek*
 	- Medici *itáliai bankárcsalád, nagy hitelek*
 	- Fuggerek *német-római zsidócsalád*
-- **Tőzsde**
+- **Tőzsde** *börze*
 	- Áru-, és részvénykereskedelem
+	- Áru-, és értéktőzsde *áruminta – váltó/részvény*
 	- Amsterdam, Antwerpen
+- **Infláció**: pénz elértéktelenedése
+- **Részvény**: értékpapír *tuldajdoni hányad*
+- **Monopólium**: egy terméknek a kizárólagos értékesítése
+- **Brit Kelet-Indiai Társaság**: meghatározó gazdasági társaság
 
 |                    | Céh                                           | Manufaktúra                                                          |
 | ------------------ | --------------------------------------------- | -------------------------------------------------------------------- |
@@ -90,3 +96,24 @@
 | Munkaerő           | Képzett                                       | Képzetlen                                                            |
 | Termék<br>minősége | Egyedi, magas minőségű                        | Tömegtermék, közepes minőségű                                        |
 | Ár                 | Drága                                         | Olcsó                                                                |
+## Abszolutizmus
+- *16.-17. század*
+- Uralkodó korlátlan hatalommal rendelkezik
+- Nyugat-Európára jellemző
+- **Oka**: megnőttek az uralkodói bevételek *kereskedelem, gyarmatosítás miatt*
+- **Nagy költekezések**
+	- Reprezentáció *Escorál, Versailles*
+	- Hadsereg
+- Franciaország kontinens vezető hatalma *17. sz., XIV. Lajos*
+- **Habsburg-dinasztia**: 
+	- Osztrák tartomány
+	- Német-Római császári cím
+	- Spanyolország *új*
+	- Németalföld egy része *új*
+	- Itáliai városok *új*
+- **30 éves háború** *17. század világháborúja*
+	- *1618 - 1648*
+	- **Tagjai**: Franciaország, protestánsok – Habsburgok
+	- Nagyhatalmi konfliktusok
+	- Vallási háború
+	- **Vége**: vestfáliai béke
