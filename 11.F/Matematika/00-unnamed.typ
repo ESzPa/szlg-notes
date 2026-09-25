@@ -2,7 +2,7 @@
 #import "config.typ": setup
 
 #show: doc => setup(
-  title: "A Körrel Kapcsolatos Ismeretek Bővítése",
+  title: "Geometria",
   subtitle: "A Körrel Kapcsolatos Ismeretek Bővítése",
   doc,
 )
@@ -880,3 +880,208 @@
     content(B, [ $B$ ], anchor: "west", padding: 0.35)
   }),
 )
+
+#text(size: 1.25em)[
+  *Definíció:* \
+  - Azon pontok mértani helye a síkon amelyekből egy adott szakasz, adott szögben látszik.
+  - Szakasz végpontjai nincsenek az íven.
+  - Ez az adott szakasz körívek közös húrja.
+]
+
+=== Húrnégyszögek
+#grid(
+  columns: (1fr, auto),
+  align: (left + horizon, right + horizon),
+  gutter: 1.2em,
+
+  text(size: 1.25em)[
+    *Definíció:* \
+    1. Azokat a négyszögeket, amelyeknek van köré írt köre húrnégyszögeknek nevezzük.
+    2. Azokat a négyszögeket amelyeknek oldalai egy kör húrjai húrnégyszögeknek nevezzük.
+    *Tétel:* \
+    - Bármely húrnégyszög  két szemközti szögének összege $180 degree$.
+    *Megfordítása:* \
+    - Ha egy négyszög két szemközti szögének összege $180 degree$, akkor a négyszög húrnégyszög.
+    *Egyben:* \
+    - Egy négyszög csakkor húrnégyszög, ha a szemközti szögeinek összege $180 degree$.
+  ],
+
+  cetz.canvas({
+    import cetz.draw: *
+
+    let r-val = 3
+
+    let p1_angle = 10deg
+    let p2_angle = 120deg
+    let p3_angle = 190deg
+    let p4_angle = 245deg
+
+    let p1 = (r-val * calc.cos(p1_angle), r-val * calc.sin(p1_angle))
+    let p2 = (r-val * calc.cos(p2_angle), r-val * calc.sin(p2_angle))
+    let p3 = (r-val * calc.cos(p3_angle), r-val * calc.sin(p3_angle))
+    let p4 = (r-val * calc.cos(p4_angle), r-val * calc.sin(p4_angle))
+
+    let p1_start = calc.atan2(p2.at(0) - p1.at(0), p2.at(1) - p1.at(1))
+    let p1_stop = calc.atan2(p4.at(0) - p1.at(0), p4.at(1) - p1.at(1))
+    let p1_stop = if p1_stop < p1_start { p1_stop + 360deg } else { p1_stop }
+
+    arc(
+      p1,
+      start: p1_start,
+      stop: p1_stop,
+      radius: 0.8,
+      anchor: "origin",
+      mode: "PIE",
+      stroke: 1pt + blue,
+      fill: blue.lighten(85%),
+    )
+    content(
+      (
+        p1.at(0) + 0.5 * calc.cos((p1_start + p1_stop) / 2),
+        p1.at(1) + 0.5 * calc.sin((p1_start + p1_stop) / 2),
+      ),
+      [ *$gamma$* ],
+    )
+
+    let p3_start = calc.atan2(p4.at(0) - p3.at(0), p4.at(1) - p3.at(1))
+    let p3_stop = calc.atan2(p2.at(0) - p3.at(0), p2.at(1) - p3.at(1))
+    let p3_stop = if p3_stop < p3_start { p3_stop + 360deg } else { p3_stop }
+
+    arc(
+      p3,
+      start: p3_start,
+      stop: p3_stop,
+      radius: 0.8,
+      anchor: "origin",
+      mode: "PIE",
+      stroke: 1pt + blue,
+      fill: blue.lighten(85%),
+    )
+    content(
+      (
+        p3.at(0) + 0.45 * calc.cos((p3_start + p3_stop) / 2),
+        p3.at(1) + 0.45 * calc.sin((p3_start + p3_stop) / 2),
+      ),
+      [ *$beta$* ],
+    )
+
+    circle((0, 0), radius: r-val, stroke: 1pt + luma(50), name: "c")
+    circle((0, 0), radius: 2.5pt, fill: black)
+
+    line((0, 0), p2, stroke: 1.2pt)
+    line((0, 0), p4, stroke: 1.2pt)
+
+    line(p1, p2, stroke: 1.2pt + blue)
+    line(p2, p3, stroke: 1.2pt + blue)
+    line(p3, p4, stroke: 1.2pt + blue)
+    line(p4, p1, stroke: 1.2pt + blue)
+
+    circle(p1, radius: 2.5pt, fill: blue)
+    circle(p2, radius: 2.5pt, fill: blue)
+    circle(p3, radius: 2.5pt, fill: blue)
+    circle(p4, radius: 2.5pt, fill: blue)
+
+    content("c.south", text(size: 1.15em)[ $beta + gamma eq 180 degree$ ], anchor: "north", padding: 0.25)
+  }),
+)
+
+=== Érintő- és szelőszakaszok tétele
+#move(dx: .5cm)[
+  #text(size: 1.25em)[
+    *Tétel:* \
+    Egy külső pontból egy körhöz húzott érintőszakasz hossza mértani közepe az ugyanabból a pontból húzott tetszőleges szelő két szakaszának.
+  ]
+]
+
+#align(center)[
+  #cetz.canvas({
+    import cetz.draw: *
+
+    let r-val = 3
+    let p3-dist = r-val + 2.5
+
+    let p1_angle = 0deg
+    let p2_angle = 180deg
+    let p3_angle = 0deg
+    let p4_angle = 60deg
+
+    let p1 = (r-val * calc.cos(p1_angle), r-val * calc.sin(p1_angle))
+    let p2 = (r-val * calc.cos(p2_angle), r-val * calc.sin(p2_angle))
+    let p3 = (p3-dist * calc.cos(p3_angle), p3-dist * calc.sin(p3_angle))
+    let p4 = (r-val * calc.cos(p4_angle), r-val * calc.sin(p4_angle))
+
+    circle((0, 0), radius: r-val, stroke: 1pt + luma(50), name: "c")
+
+    line(p2, p3, stroke: 1.2pt + blue)
+    line(p4, p3, stroke: 1.2pt + blue)
+
+    circle((0, 0), radius: 2.5pt, fill: black)
+    circle(p1, radius: 2.5pt, fill: blue)
+    circle(p2, radius: 2.5pt, fill: blue)
+    circle(p3, radius: 2.5pt, fill: black)
+    circle(p4, radius: 2.5pt, fill: blue)
+
+    content(
+      "c.south",
+      text(size: 1.15em)[ $
+        & "PE"^2 eq "PA" dot "PB" \
+        & "PE" eq sqrt("PA" dot "PB")
+      $ ],
+      anchor: "north",
+      padding: 0.25,
+    )
+    content(p1, [ $A$ ], anchor: "north-west", padding: 0.2)
+    content(p2, [ $B$ ], anchor: "north-east", padding: 0.2)
+    content(p3, [ $P$ ], anchor: "south-west", padding: 0.2)
+    content(p4, [ $E$ ], anchor: "south-west", padding: 0.2)
+    content((0, 0), [ $O$ ], anchor: "south", padding: 0.3)
+  })
+]
+
+=== Ptomaiosz-tétel
+#align(center)[
+  #cetz.canvas({
+    import cetz.draw: *
+
+    let r-val = 3
+
+    let p1_angle = 75deg
+    let p2_angle = 150deg
+    let p3_angle = 225deg
+    let p4_angle = 325deg
+
+    let p1 = (r-val * calc.cos(p1_angle), r-val * calc.sin(p1_angle))
+    let p2 = (r-val * calc.cos(p2_angle), r-val * calc.sin(p2_angle))
+    let p3 = (r-val * calc.cos(p3_angle), r-val * calc.sin(p3_angle))
+    let p4 = (r-val * calc.cos(p4_angle), r-val * calc.sin(p4_angle))
+
+    circle((0, 0), radius: r-val, stroke: 1pt + luma(50), name: "c")
+
+    line(p1, p2, stroke: 1.2pt + blue, name: "c-side")
+    line(p2, p3, stroke: 1.2pt + blue, name: "d-side")
+    line(p3, p4, stroke: 1.2pt + blue, name: "a-side")
+    line(p4, p1, stroke: 1.2pt + blue, name: "b-side")
+    line(p1, p3, stroke: 1.2pt + green.darken(20%))
+    line(p2, p4, stroke: 1.2pt + green.darken(20%))
+
+    circle(p1, radius: 2.5pt, fill: blue)
+    circle(p2, radius: 2.5pt, fill: blue)
+    circle(p3, radius: 2.5pt, fill: blue)
+    circle(p4, radius: 2.5pt, fill: blue)
+
+    content(
+      "c.south",
+      text(size: 1.15em)[ $
+        "ef" eq "a" dot "c" plus "b" dot "d"
+      $ ],
+      anchor: "north",
+      padding: 0.25,
+    )
+    content("a-side", [ $a$ ], anchor: "north", padding: 0.25)
+    content("b-side", [ $b$ ], anchor: "west", padding: 0.25)
+    content("c-side", [ $c$ ], anchor: "south", padding: 0.25)
+    content("d-side", [ $d$ ], anchor: "east", padding: 0.25)
+    content((p1, 30%, p3), [ $f$ ], anchor: "west", padding: 0.25)
+    content((p2, 60%, p4), [ $e$ ], anchor: "south-west", padding: 0.2)
+  })
+]
