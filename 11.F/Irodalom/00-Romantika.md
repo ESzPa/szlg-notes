@@ -31,7 +31,7 @@
 - A keret nem ellensúlyozza a pusztulás vízióját *áldás* –> *szánalom*
 - **1823**: Vanitatum vanitas *emberiség léte – hiábavaló / irónia*
 - A magyarság felrázása, erkölcsi érzékének feltámasztása  *széthúzás*
-## Vörösmarty Mihály
+## Vörösmarty Mihály *1800-1855*
 - *Pozitív – nemzethalál vízió*
 - **1836**: Szózat
 - A reformok ellehetetlenülése
@@ -39,3 +39,8 @@
 	- *Magyarság sorsa?*
 - Folyamatosan együtt lattatja, az értékeket és azok pusztulását – de a *túlélést*, *megmaradást* hangsúlyozza
 - De a keret a pusztulást felülíró esőt mutat *(szórend)*
+### Csongor és Tünde *(1830)*
+- Boldogságkeresés, a harmónia, teljesség megélésének vágya
+	- Közösségi szinten: eleve lemond róla V.M.?
+	- Egyéni szinten: kudarc, részleges siker? – szerelem?
+- Fizikai korlátok, de magasabb rendű tudati lét –> kompromisszum?
