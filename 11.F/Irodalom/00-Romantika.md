@@ -44,3 +44,22 @@
 	- Közösségi szinten: eleve lemond róla V.M.?
 	- Egyéni szinten: kudarc, részleges siker? – szerelem?
 - Fizikai korlátok, de magasabb rendű tudati lét –> kompromisszum?
+## Drámai Költemény
+*romantikus világdráma*
+*emberiség dráma/költemény*
+- A klasszikus tragédiával rokon műfaj, de a drámaisággal egyenrangúvá válik a költőiség, a cselekményességgel pedig a gondolatiság.
+- **Könyvdráma**: eredetileg nem előadásra, hanem olvasásra szánt mű, amely az élet *a lét* alapvető filozófiai kérdéseit tárgyalja
+	- Mi az élet értelme – van-e egyáltalán?
+	- Miben rejlik a boldogság, elérhető-e? *Vörösmarty*
+	- Mi adhat célt?
+	- Van-e szabad akarat? stb. *Madách Imre*
+- **Byron**: Manfred *(1816)*
+- **Goethe**: Faust I.-II. *(1808, 1832)*
+- **Vörösmarty Mihályi**: Csongor és Tünde *(1830)*
+- **Madách Imre**: Az ember tragédiája *(1859-60)*
+- **Epikus vonás**
+	- A dráma cselekmény egy mitológiai *(/mesei)* történet újraírása
+	- A mű a mítoszok elbeszélésrendjét követi
+- A d.k. szereplői gyakran allegorikus figurák, egy-egy eszme képviselői, megtestesítői
+- Kevert műfaj *(Romantika)*
+- Nem hús-vér drámai karakterek
