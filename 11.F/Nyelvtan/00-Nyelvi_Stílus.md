@@ -29,3 +29,11 @@
 	- Kapcsolattartó *kiegészítő*
 	- Gyönyörködtető *kiegészítő*
 	- Értelmező *kiegészítő*
+### Nonverbális Kommucikáció
+- **Kommunikáció**: Információátadás, és -csere
+- 2/3 a kommunikációnak
+- Kisegíti, árnyalja a nyelvi szöveget
+- **Eszköztára**
+	- Mimika, gesztikuláció, testtartás, térközszabályozás, szemkontaktus
+	- Kinézet *(öltözék, hajviselet, stb.)*
+	- **Zenei eszközök**: hangerő, hangsúly, hanglejtés, beszédtempó, beszédszünet
