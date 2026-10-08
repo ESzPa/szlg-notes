@@ -44,6 +44,9 @@
 	- Közösségi szinten: eleve lemond róla V.M.?
 	- Egyéni szinten: kudarc, részleges siker? – szerelem?
 - Fizikai korlátok, de magasabb rendű tudati lét –> kompromisszum?
+- **Kétszintes dráma**
+	- Túlvilági, transzcendens szféra *normaadó*
+	- Fizikai valóság, földi lét *normakövető*
 ## Drámai Költemény
 *romantikus világdráma*
 *emberiség dráma/költemény*
