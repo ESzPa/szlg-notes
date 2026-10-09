@@ -27,4 +27,25 @@
 - Ágoston-rendi szerzetes
 - Belülről akarja megreformálni
 - Kiközösítés, elveszti szerzetesi hivatását
-- Császár birodalmi átokkal sújtja *bárki büntetlenül megölheti* 
+- Császár *(V. Károly)* birodalmi átokkal sújtja *bárki büntetlenül megölheti*
+- **Tételei**
+	- Búcsúcédulák beszüntetése, bűnbánásért feloldozás *"Sola gratia" – kegyelem*
+	- Csak krisztus közvetít isten és ember közt *"Solus Christus" – csak krisztus*
+	- Csak a Bibliában leírtak számítanak *"Sola Scriptura" – csak az írás*
+	- Az egyház vagyonának, fényűzésének elutasítása
+	- Egyházi vagyon világi kézbe adása *"Szekularizáció"*
+- Rendek *(nemesek, polgárok)* szimpatizálnak vele –> protestáltak a császári birodalmi átok ellen *protestánsok*
+- **Vallásháború**
+	- **1555**: vége *augsburgi vallásbéke*
+	- Protestáns győzelem
+	- Vallási türelem *római katolikus, evangélikust szabadon lehet vallani*
+	- 1648-ban kiterjesztik az intézkedéseket a vesztfáliai békében a reformátusokra is
+- Bölcs Frigyes befogadja amikor a birodalmi átok elől menekül, ott lefordítja németre a Bibliát *anyanyelvre*
+- Elutasítja a pápa különleges hatalmát, szentek/ereklyék tiszteletét
+- **2 szentséget fogad el**: keresztség, úrvacsora *(eucharisztia)*
+## Kálvin János
+- Prédikátor *1536, Genf*
+- Protestáns
+- Dolgos istenfélő, erkölcsös élet
+- Tisztességes kamat *(nem uzsora)*
+- Predesztimáció *eleve elrendeltetés*
