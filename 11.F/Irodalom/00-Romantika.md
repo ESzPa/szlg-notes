@@ -66,3 +66,16 @@
 - A d.k. szereplői gyakran allegorikus figurák, egy-egy eszme képviselői, megtestesítői
 - Kevert műfaj *(Romantika)*
 - Nem hús-vér drámai karakterek
+## Rapszódia
+- Ódával rokon műfaj
+- Érzelmi zaklatottság, hangnem
+- Változatosság *(pátosz, irónia, cinizmus, elégikus)* jellemzi
+	- Szabálytalan, töredezett forma
+- Pl.: V.M. Gondolatok a könyvtárban, A vén cigány
+## Petőfi Sándor
+- 1823-1849
+- Forradalom *(szabadságharc)*
+- Szendrey Júlia
+- Arany János
+- Felhők
+- V.M.
