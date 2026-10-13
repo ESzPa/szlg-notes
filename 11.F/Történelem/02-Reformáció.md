@@ -24,6 +24,7 @@
 - **Előreformátorok**: Husz János *eretnek*
 ## Luther Márton 
 - Reformáció elindítója *1517, Wittenberg*
+- Luteránus *evangélikus/ágostai*
 - Ágoston-rendi szerzetes
 - Belülről akarja megreformálni
 - Kiközösítés, elveszti szerzetesi hivatását
@@ -32,6 +33,8 @@
 	- Búcsúcédulák beszüntetése, bűnbánásért feloldozás *"Sola gratia" – kegyelem*
 	- Csak krisztus közvetít isten és ember közt *"Solus Christus" – csak krisztus*
 	- Csak a Bibliában leírtak számítanak *"Sola Scriptura" – csak az írás*
+	- Csak az istenbe vetett hit üdvözít *"Sola fide" – csak a hit*
+	- Pápai tekintély elvetése *"Soli Deo Gloria"*
 	- Az egyház vagyonának, fényűzésének elutasítása
 	- Egyházi vagyon világi kézbe adása *"Szekularizáció"*
 - Rendek *(nemesek, polgárok)* szimpatizálnak vele –> protestáltak a császári birodalmi átok ellen *protestánsok*
@@ -48,4 +51,20 @@
 - Protestáns
 - Dolgos istenfélő, erkölcsös élet
 - Tisztességes kamat *(nem uzsora)*
-- Predesztimáció *eleve elrendeltetés*
+- Predesztináció *eleve elrendeltetés*
+- Puritán életet éljen az ember
+- Városokban terjed a református vallás *kálvinista*
+## Antitrinitárius
+*szentháromság-tagadó*
+- Jézus nem isten
+- Erdélyben unitárius egyház *Dávid Ferenc*
+## Anabaptista
+- Újrakeresztelők *felnőttkori keresztelők*
+## Anglikán egyház
+- VIII. Henrik *(1530-as évek, egyház feje)*
+	- Aragóniai Kataln *felesége, egyik*
+- Elutasította a pápa főségét
+- Centerburry érsek
+- **Római katolikus**: szertartásrendileg *(liturgia)* és szervezetileg *(hierarchia)*
+- **Protestáns**: dogmatikailag *(hitelv)*
+- Felolszlatja a szerzetesrendeket
