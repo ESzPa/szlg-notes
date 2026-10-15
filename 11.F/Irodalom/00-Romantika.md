@@ -79,3 +79,12 @@
 - Arany János
 - Felhők
 - V.M.
+### 1. Pályaszakasza: Népköltészet
+- 1842-1844
+- Népiesség jellemzi
+- Népköltészet a népdalok imitációja
+	- Jellegzetes műfajok *(népies helyzetdal, életkép)*
+	- Verselés, ritmus *(ütemhangsúlyos)*
+	- Népies szóhasználat, tájszavak
+	- A nép életének mindennapja, gyakori történései *(témaválasztás)*
+	- Tipikus népi figurák, jellegzetes névvel
