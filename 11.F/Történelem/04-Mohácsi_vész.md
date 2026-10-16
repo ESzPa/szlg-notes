@@ -1,0 +1,37 @@
+# Mohácsi vész és a királyi hatalom gyengülése
+- ded matyi
+- ded matyi again
+- orszag tortenik
+- korszakban mo s torok piffpuff
+- oszmanok vannak es vilagpolitika is
+## Oszmán Birodalom erősödése
+- **Meghódítja**
+	- Vörös-tenger partvidéke
+	- Egyiptom
+	- Perzsák *(Indiai-óceán)*
+- **Cél**: hódítás *katonabirodalom*
+- Szultán dönt, hogy Európa vagy Ázsia felé terjeszkedjén
+- **Terjeszkedés**
+	- Nagyobb földterület *(javadalombirtokok a szpáhiknak)*
+	- Janicsároknak zsold
+	- Tüzérség jelentőségének növekedése
+	- Levantei kereskedelem megadóztatása
+- Szulejmán szultán dönt Európa mellett
+- Balkán-félsziget török fennhatóság alatt
+## Királyi hatalom gyengülése
+- Hunyadi Mátyás meghal *1490*
+- **Corvin János** nem lesz uralkodó *motiválatlan, nem támogatott*
+- **Jagelló Ulászló** lesz a király *1490-1516, II. Ulászló*
+- A király gyenge, bábkirály *(Dobzse László)*
+- A királyi tanács befolyása nő
+- **Ígéretei**:
+	- Megvédi az ország határait saját költségén *harmadára csökken a bevételei*
+- Nem tudja megvédeni az országot
+- Dózsa-féle parasztfelkelés *leverve*
+- Rendi országgyűlések *köznemesek*
+- **Szapolyai János** *erdélyi vajda*
+- **1505**: Rákosi végzés *Jagelló Ulászló után csak magyar lehet a trónon*
+- Megszületett II. Lajos *Jagelló, 1516-1526*
+- **1515**: Habsburg-Jagelló házassági szerződés
+- II. Lajos elveszi Habsburg Máriát
+- Habsburg Ferdinánd elveszi Jagelló Annát *II. Lajos testvére*

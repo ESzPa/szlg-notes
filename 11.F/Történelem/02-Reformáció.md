@@ -92,4 +92,4 @@
 	- Papok műveltségének fejlesztése
 	- **Index**: protestáns könyvek tilalma *indexen levő könyvek*
 	- Inkvizíció felállítása, főként tudósok üldözése *kivégzés, tanaik visszavonása*
-	- **Jezsuiták**: hitvitázók, misszionárusok *hittérítők*
+	- **Jezsuiták**: hitvitázók, misszionárusok *hittérítők, szerzetesrend*
