@@ -79,12 +79,16 @@
 - Arany János
 - Felhők
 - V.M.
-### 1. Pályaszakasza: Népköltészet
+- Kiskőrösön született
+### I. Pályaszakasza: Népköltészet
 - 1842-1844
 - Népiesség jellemzi
+- Szerepköltészet, a természetes közösséggel *(néppel)* való azonosulás – kultúra, mindennapok, sors, helyzet
 - Népköltészet a népdalok imitációja
 	- Jellegzetes műfajok *(népies helyzetdal, életkép)*
 	- Verselés, ritmus *(ütemhangsúlyos)*
 	- Népies szóhasználat, tájszavak
 	- A nép életének mindennapja, gyakori történései *(témaválasztás)*
 	- Tipikus népi figurák, jellegzetes névvel
+### II. Pályaszakasza: Romantikus Individualizmus
+- Szerelmi ciklusok *(Cipruslombok Etelke sírjáról, Szerelem gyöngyei, Felhők)*
