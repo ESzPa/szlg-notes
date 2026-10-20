@@ -35,3 +35,10 @@
 - **1515**: Habsburg-Jagelló házassági szerződés
 - II. Lajos elveszi Habsburg Máriát
 - Habsburg Ferdinánd elveszi Jagelló Annát *II. Lajos testvére*
+## II. Lajos uralkodása
+- Jagelló dinasztia
+- Törvényesen választott magyar király
+- Fiatal, befolyásolható
+- Aktív külpolitika
+- Úgy gondolja szövetségesekben bővelkedik
+- Mohácsi csata *1526*
