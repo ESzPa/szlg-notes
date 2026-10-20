@@ -37,3 +37,20 @@
 	- Mimika, gesztikuláció, testtartás, térközszabályozás, szemkontaktus
 	- Kinézet *(öltözék, hajviselet, stb.)*
 	- **Zenei eszközök**: hangerő, hangsúly, hanglejtés, beszédtempó, beszédszünet
+## Stílus
+*Mondanivalónk megformálásának módja a nyelv elemeinek céltudatos kiválasztásával és elrendezésével*
+### Hétköznapi, Művészi kommunikáció
+- Tájékoztatás
+- Kifejezés
+- Felhívás
+- Kapcsolatteremtés
+- Értelmezés
+- Gyönyörködtetés *(esztétikai élmény közvetítése)*
+### A szöveg vizuális elrendezése
+- Szöveg térbeli elrendezése
+- Írásjelek
+- Betűtípus-méret
+- Képek, ábrák
+- A szöveg felépítésének, szerkezetének érzékeltetése
+- A mondanivaló *(tartalom)* alátámasztása, értelmezése
+- Az előszó zenei eszközeinek pótlása
