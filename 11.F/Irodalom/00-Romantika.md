@@ -90,5 +90,12 @@
 	- Népies szóhasználat, tájszavak
 	- A nép életének mindennapja, gyakori történései *(témaválasztás)*
 	- Tipikus népi figurák, jellegzetes névvel
+- A magyarságban megtestesülö kollektív személyesség
+- A  természetes, eredeti nemzeti sajátosságok hangsúlyozása
+- A természetes közösséggel való azonosulás, de csak közvetve
 ### II. Pályaszakasza: Romantikus Individualizmus
 - Szerelmi ciklusok *(Cipruslombok Etelke sírjáról, Szerelem gyöngyei, Felhők)*
+- Az egyéniség, a lírai személyesség kifejezése iránti igény
+### III. Forradalom – látomásköltészet
+- 1846/47 – 1849
+- Prófétaköltöi szerep
