@@ -99,3 +99,6 @@
 ### III. Forradalom – látomásköltészet
 - 1846/47 – 1849
 - Prófétaköltöi szerep
+- **1846 Dalaim**
+	- A vers végén megjelenik egy új szereplehetöség *prófétaköltöi szerep*
+	- Felhök -> "Felleges bánatos lelkemnek haragos"

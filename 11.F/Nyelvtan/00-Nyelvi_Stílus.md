@@ -46,6 +46,7 @@
 - Kapcsolatteremtés
 - Értelmezés
 - Gyönyörködtetés *(esztétikai élmény közvetítése)*
+- Vizuális elrendezés
 ### A szöveg vizuális elrendezése
 - Szöveg térbeli elrendezése
 - Írásjelek
