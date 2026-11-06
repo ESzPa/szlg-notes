@@ -18,6 +18,8 @@
 	- Levantei kereskedelem megadóztatása
 - Szulejmán szultán dönt Európa mellett
 - Balkán-félsziget török fennhatóság alatt
+- Nagyobb bevétel mint a nyugati országoknak
+- Nagyobb tüzérség
 ## Királyi hatalom gyengülése
 - Hunyadi Mátyás meghal *1490*
 - **Corvin János** nem lesz uralkodó *motiválatlan, nem támogatott*
@@ -41,4 +43,9 @@
 - Fiatal, befolyásolható
 - Aktív külpolitika
 - Úgy gondolja szövetségesekben bővelkedik
-- Mohácsi csata *1526*
+- **1526** Mohácsi csata
+- **1521** Nándorfehérvár eleste
+- Célja a királyi hatalom növelése de a rendek és a pénze korlátozza azt
+- Nemesi bandériumok, külföldi zsoldosok *(csehek)*, parasztok, főpapok, főnemesek *(25k fő)*
+- **Tomori Pál**: kalocsai érsek, katonai vezető
+- **Szapolyai**: erdélyi vajda
