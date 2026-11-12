@@ -90,7 +90,7 @@
 	- Népies szóhasználat, tájszavak
 	- A nép életének mindennapja, gyakori történései *(témaválasztás)*
 	- Tipikus népi figurák, jellegzetes névvel
-- A magyarságban megtestesülö kollektív személyesség
+- A magyarságban megtestesülő kollektív személyesség
 - A  természetes, eredeti nemzeti sajátosságok hangsúlyozása
 - A természetes közösséggel való azonosulás, de csak közvetve
 ### II. Pályaszakasza: Romantikus Individualizmus
@@ -98,7 +98,15 @@
 - Az egyéniség, a lírai személyesség kifejezése iránti igény
 ### III. Forradalom – látomásköltészet
 - 1846/47 – 1849
-- Prófétaköltöi szerep
+- Prófétaköltői szerep
 - **1846 Dalaim**
-	- A vers végén megjelenik egy új szereplehetöség *prófétaköltöi szerep*
-	- Felhök -> "Felleges bánatos lelkemnek haragos"
+	- A vers végén megjelenik egy új szereplehetőség *prófétaköltői szerep*
+	- Felhők -> "Felleges bánatos lelkemnek haragos"
+- **1846. tavasz – 1846. december**
+	- Szerepvágy – szerepbe helyezkedés folyamata
+- **1847. január 1. – mottó**
+	- Január – ars poetica -> már a szerepből szólal meg
+- **1848. március 15.**
+	- A szerep gyakorlati megvalósulása
+- **1848. június – szeptember**
+- **1849. július** :dead:
