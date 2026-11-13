@@ -49,3 +49,27 @@
 - Nemesi bandériumok, külföldi zsoldosok *(csehek)*, parasztok, főpapok, főnemesek *(25k fő)*
 - **Tomori Pál**: kalocsai érsek, katonai vezető
 - **Szapolyai**: erdélyi vajda
+- **1526**: elfoglalják Budát
+## Thing
+- **1541**: elfoglalják Budát *(3 részre szakad az ország, 150 év)*
+	- Hódoltság *(közép)*
+	- Királyi Magyarország *(Felvidék)*
+	- Erdélyi Fejedelemség *(keleti, Partium)*
+- Ország 2 részre szakadt
+- **Partium:** magyarországi megyék amiket néha az erdélyi fejedelmek birtokolnak
+## Várháborúk kora
+- 1541 – 1568
+- Felvonulási terület
+- **Cél**: Bécs elfoglalása
+- **Fráter György**: fontos politikus, Jagelló Zsigmond gyámja, kincstartó
+	- **Erdély:** hatalmi központ *(Gyulafehérvár)*
+- **1551**: zsoldosokat küld Ferdinánd Erdélybe
+- **Hintapolitika**
+- **Castaldo**: zsoldosok vezetője
+- **1551**: zsoldosok megölik Frátert
+- **1552**: Szulejmán büntetőhadjárata Erdély ellen
+	- **Cél**: Erdély és Királyi Magyarország egyesülésének megakadályozása
+- **1565**: János Zsigmond és Ferdinánd egyezsége *(János Zsigmond lemond királyi címről, elismerést kap erdélyi fejedelemségéről)*
+- **1566**: Szigetvár *(Zrínyi Miklós)*
+	- Szulejmán meghal
+- **1568**: Drinápolyi béke *(békét köt a két birodalom)*
