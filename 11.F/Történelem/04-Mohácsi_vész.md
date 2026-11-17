@@ -73,3 +73,27 @@
 - **1566**: Szigetvár *(Zrínyi Miklós)*
 	- Szulejmán meghal
 - **1568**: Drinápolyi béke *(békét köt a két birodalom)*
+	- Status quo béke
+### Királyi Magyarország
+- Habsburg Birodalom keleti határa
+- Védelmi feladat
+- Végvárrendszer *120 db, keleti határon*
+- Vitézlőrend *(végvári katonák, zsoldosok)*
+- Központja Pozsony
+- Sok nemzetiség
+- Habsburg tartomány
+- Király nincs az országban *(székhely Bécs)*, ehelyett helytartóság
+- Királyi tanács helyett magyar tanács
+- Rendi dualizmus *(király a rendekkel együtt való kormányzása)*
+- Király abszolutizmust akar kiépíteni
+- **Rendi országgyűlés** *(rendeknek van szavazati joga)*
+	- 2 kamarás *(felső- és alsótábla)*
+- Vármegyei igazgatás *(középszintű)* a rendeké
+- 5 darab főkapitányságra osztja a területét *király*
+- **Udvari haditanács**: katonai ügyek
+- **Habsburg Birodalom**: sok nemzetiségű állam
+### Török hódoltság
+- Kb. 40%
+- Hadszintér
+- Oszmán közigazgatás *vilajetek*
+- **Ráják:**
