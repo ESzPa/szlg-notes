@@ -97,3 +97,19 @@
 - Hadszintér
 - Oszmán közigazgatás *vilajetek*
 - **Ráják:**
+
+- Vallásbéke nincs
+- Szabad plébános, lelkész választás
+- Erdély, vallási türelem
+## Hatalmi konfliktusok a 17. században
+- **Bocskai szabadságharc**: 1604-1606
+- Erdélyi fejedelmek belpolitikai szabadság
+- **1591-1606**: Oszmán Birodalom, Habsburg Birodalom
+	- Oszmán engedéllyel Erdély is részt vesz
+	- Kiürül a Habsburg kincstár
+	- Pereskedik magyar főnemesek ellen *felségárulás*
+- **1606**: bécsi béke Habsburg–Bocskai
+- **Koronaküldés**: Szultán Bocskainak *ajándék*
+- **1606**: Bocskai politikai végrendelete
+	- Csak akkor egyesítsék a 3 országrészt, ha magyar az uralkodó
+- Szabad vallásgyakorlás bécsi béke által *nemeseknek, polgároknak, végvári vitézeknek*
